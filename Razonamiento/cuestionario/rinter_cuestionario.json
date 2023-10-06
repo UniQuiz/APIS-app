@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "pregunta": "Si un tren sale de la estación A hacia la estación B a una velocidad constante y luego regresa de B a A con la misma velocidad constante, ¿cuál es la relación entre la velocidad promedio durante todo el viaje y la velocidad constante?",
+        "categoria": "Razonamiento Lógico",
+        "opciones": ["La velocidad promedio es mayor", "La velocidad promedio es igual", "La velocidad promedio es menor"],
+        "respuesta": "La velocidad promedio es igual"
+    },
+    {
+        "id": 2,
+        "pregunta": "Si todos los gatos son animales y algunos animales son perros, ¿qué se puede inferir?",
+        "categoria": "Inferencia Lógica Avanzada",
+        "opciones": ["Algunos gatos son perros", "Todos los gatos son perros", "Todos los animales son perros"],
+        "respuesta": "Algunos gatos son perros"
+    },
+    {
+        "id": 3,
+        "pregunta": "Resuelve el siguiente rompecabezas: Si 5 máquinas pueden hacer 5 productos en 5 minutos, ¿cuánto tiempo tomará que 100 máquinas hagan 100 productos?",
+        "categoria": "Problemas Lógicos",
+        "opciones": ["100 minutos", "5 minutos", "10 minutos"],
+        "respuesta": "5 minutos"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es el resultado de la siguiente operación lógica? (A AND B) OR (NOT A)",
+        "categoria": "Uso de Tablas de Verdad",
+        "opciones": ["A", "B", "NOT A", "A OR B"],
+        "respuesta": "A OR B"
+    },
+    {
+        "id": 5,
+        "pregunta": "Si algunos gatos son negros y todos los gatos son animales, ¿qué se puede concluir sobre algunos animales?",
+        "categoria": "Inferencia Lógica Avanzada",
+        "opciones": ["Algunos animales son negros", "Todos los animales son negros", "Algunos animales son gatos"],
+        "respuesta": "Algunos animales son negros"
+    },
+    {
+        "id": 6,
+        "pregunta": "Resuelve el siguiente acertijo: Si un avión se estrella en la frontera entre EE. UU. y Canadá, ¿dónde enterrarías a los sobrevivientes?",
+        "categoria": "Problemas Lógicos",
+        "opciones": ["EE. UU.", "Canadá", "No se pueden enterrar a los sobrevivientes."],
+        "respuesta": "No se pueden enterrar a los sobrevivientes."
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cuál es el valor de verdad de la proposición compuesta (P AND Q) OR (NOT P)?",
+        "categoria": "Uso de Tablas de Verdad",
+        "opciones": ["Verdadero", "Falso"],
+        "respuesta": "Verdadero"
+    },
+    {
+        "id": 8,
+        "pregunta": "Si algunos estudiantes son atletas y algunos atletas son músicos, ¿qué se puede concluir sobre algunos estudiantes?",
+        "categoria": "Inferencia Lógica Avanzada",
+        "opciones": ["Algunos estudiantes son músicos", "Todos los estudiantes son atletas", "Nada se puede concluir"],
+        "respuesta": "Algunos estudiantes son músicos"
+    },
+    {
+        "id": 9,
+        "pregunta": "Resuelve el siguiente problema: Si 2 manzanas cuestan $0.30, ¿cuánto cuestan 5 manzanas?",
+        "categoria": "Problemas Lógicos",
+        "opciones": ["$0.60", "$1.00", "$1.50"],
+        "respuesta": "$1.50"
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuál es la negación de la siguiente proposición? 'Todos los pájaros vuelan'.",
+        "categoria": "Uso de Tablas de Verdad",
+        "opciones": ["Algunos pájaros no vuelan", "Ningún pájaro vuela", "Todos los pájaros no vuelan"],
+        "respuesta": "Algunos pájaros no vuelan"
+    },
+    {
+        "id": 11,
+        "pregunta": "Si x + 3 = 7, ¿cuál es el valor de x?",
+        "categoria": "Álgebra y Ecuaciones Lineales",
+        "opciones": ["2", "4", "10", "5"],
+        "respuesta": "4"
+    },
+    {
+        "id": 12,
+        "pregunta": "Si un artículo cuesta $120 y su precio se incrementa en un 20%, ¿cuál es el nuevo precio?",
+        "categoria": "Proporción y Porcentaje",
+        "opciones": ["$20", "$140", "$144", "$24"],
+        "respuesta": "$144"
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Cuál es el promedio de los siguientes números: 12, 15, 18, 21, 24?",
+        "categoria": "Estadísticas y Análisis de Datos",
+        "opciones": ["18", "20", "21", "24"],
+        "respuesta": "18"
+    },
+    {
+        "id": 14,
+        "pregunta": "Resuelve la siguiente ecuación: 2x - 5 = 7",
+        "categoria": "Álgebra y Ecuaciones Lineales",
+        "opciones": ["x = 1", "x = 6", "x = 7", "x = 12"],
+        "respuesta": "x = 6"
+    },
+    {
+        "id": 15,
+        "pregunta": "Si el 30% de los estudiantes de una escuela son niños, y hay 240 estudiantes en total, ¿cuántos son niños?",
+        "categoria": "Proporción y Porcentaje",
+        "opciones": ["60", "70", "72", "80"],
+        "respuesta": "72"
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cuál es la mediana de los siguientes números: 5, 9, 2, 8, 11?",
+        "categoria": "Estadísticas y Análisis de Datos",
+        "opciones": ["5", "8", "9", "11"],
+        "respuesta": "8"
+    },
+    {
+        "id": 17,
+        "pregunta": "Si 3a = 27, ¿cuál es el valor de a?",
+        "categoria": "Álgebra y Ecuaciones Lineales",
+        "opciones": ["3", "6", "9", "12"],
+        "respuesta": "9"
+    },
+    {
+        "id": 18,
+        "pregunta": "Si un artículo cuesta $50 y se vende con un descuento del 25%, ¿cuál es el precio de venta?",
+        "categoria": "Proporción y Porcentaje",
+        "opciones": ["$25", "$37.50", "$45", "$12.50"],
+        "respuesta": "$37.50"
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Cuál es el rango de los siguientes números: 14, 18, 21, 7, 25?",
+        "categoria": "Estadísticas y Análisis de Datos",
+        "opciones": ["7", "18", "21", "25"],
+        "respuesta": "18"
+    },
+    {
+        "id": 20,
+        "pregunta": "Resuelve la siguiente ecuación: 4x + 8 = 20",
+        "categoria": "Álgebra y Ecuaciones Lineales",
+        "opciones": ["x = 2", "x = 4", "x = 5", "x = 10"],
+        "respuesta": "x = 3"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cuál es el tema principal del siguiente párrafo?\n\nEn el siglo XVIII, la Revolución Industrial transformó profundamente la economía y la sociedad en Europa.",
+        "categoria": "Comprensión de Lectura",
+        "opciones": ["La Revolución Industrial en Europa", "Los cambios sociales en el siglo XVIII", "La economía europea en el siglo XVIII", "El impacto de la Revolución Industrial"],
+        "respuesta": "La Revolución Industrial en Europa"
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Cuál es el propósito principal de este texto?\n\nEl artículo proporciona una descripción detallada de las técnicas de jardinería orgánica.",
+        "categoria": "Evaluación de la Estructura de Texto",
+        "opciones": ["Entretener al lector", "Informar sobre técnicas de jardinería", "Promover productos orgánicos", "Argumentar en contra de la jardinería orgánica"],
+        "respuesta": "Informar sobre técnicas de jardinería"
+    },
+    {
+        "id": 23,
+        "pregunta": "Según el texto, ¿qué conclusión se puede sacar sobre el personaje principal de la historia?\n\nA pesar de los desafíos, nunca dejó de perseguir sus sueños y alcanzó el éxito.",
+        "categoria": "Inferencia de Información Implícita",
+        "opciones": ["El personaje principal es pesimista", "El personaje principal es un soñador", "El personaje principal es derrotista", "El personaje principal es conformista"],
+        "respuesta": "El personaje principal es un soñador"
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Cuál es el tono general de este pasaje?\n\nEl autor utiliza un lenguaje entusiasta y optimista para describir los avances tecnológicos.",
+        "categoria": "Evaluación de la Estructura de Texto",
+        "opciones": ["Triste", "Optimista", "Indiferente", "Elogioso"],
+        "respuesta": "Optimista"
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Qué palabra o frase podría usarse como sinónimo de 'eficiente' en el contexto de este texto?\n\nLa nueva tecnología ha hecho que el proceso de fabricación sea más eficiente.",
+        "categoria": "Comprensión de Lectura",
+        "opciones": ["Complicado", "Rápido", "Ineficiente", "Productivo"],
+        "respuesta": "Productivo"
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuál de las siguientes afirmaciones se deduce del párrafo anterior?\n\nA pesar de las dificultades, el equipo logró superar los obstáculos y ganar el campeonato.",
+        "categoria": "Inferencia de Información Implícita",
+        "opciones": ["El equipo no ganó el campeonato", "El equipo no tuvo dificultades", "El equipo no logró superar los obstáculos", "El equipo ganó el campeonato"],
+        "respuesta": "El equipo ganó el campeonato"
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué se puede inferir sobre la relación entre los dos personajes principales de la novela?\n\nA lo largo de la historia, su amistad se fortaleció y se convirtieron en aliados cercanos.",
+        "categoria": "Inferencia de Información Implícita",
+        "opciones": ["Se volvieron enemigos", "No interactuaron en absoluto", "Su amistad se debilitó", "Se convirtieron en aliados cercanos"],
+        "respuesta": "Se convirtieron en aliados cercanos"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué técnica literaria se utiliza en el siguiente fragmento?\n\n'Las olas del mar susurraban melodías tranquilizadoras mientras el sol se ocultaba lentamente en el horizonte'.",
+        "categoria": "Evaluación de la Estructura de Texto",
+        "opciones": ["Metáfora", "Personificación", "Ironía", "Simbolismo"],
+        "respuesta": "Personificación"
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Cuál de las siguientes palabras es un antónimo de 'generoso' en el contexto de este pasaje?\n\nEl hombre generoso donó una gran suma de dinero a la caridad.",
+        "categoria": "Comprensión de Lectura",
+        "opciones": ["Avaro", "Amable", "Desinteresado", "Benevolente"],
+        "respuesta": "Avaro"
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuál es el propósito principal de este artículo periodístico?\n\nEl autor presenta evidencia sobre el impacto del cambio climático en la biodiversidad.",
+        "categoria": "Evaluación de la Estructura de Texto",
+        "opciones": ["Entretener a los lectores", "Promover productos ecológicos", "Informar sobre el cambio climático", "Argumentar en contra del cambio climático"],
+        "respuesta": "Informar sobre el cambio climático"
+    }
+] 

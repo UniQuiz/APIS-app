@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es la traducción al inglés de 'familia'?",
+        "categoria": "Vocabulario (Familia)",
+        "opciones": ["Family", "House", "Car", "School"],
+        "respuesta": "Family"
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cómo se dice 'manzana' en inglés?",
+        "categoria": "Vocabulario (Comida)",
+        "opciones": ["Banana", "Apple", "Pizza", "Pasta"],
+        "respuesta": "Apple"
+    },
+    {
+        "id": 3,
+        "pregunta": "En inglés, ¿cómo se dice 'chaqueta'?",
+        "categoria": "Vocabulario (Ropa)",
+        "opciones": ["Shirt", "Hat", "Jacket", "Shoes"],
+        "respuesta": "Jacket"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es la palabra en inglés para 'sol'?",
+        "categoria": "Vocabulario (Clima)",
+        "opciones": ["Moon", "Rain", "Sun", "Cloud"],
+        "respuesta": "Sun"
+    },
+    {
+        "id": 5,
+        "pregunta": "En inglés, ¿cómo se dice 'abuelo'?",
+        "categoria": "Vocabulario (Familia)",
+        "opciones": ["Grandmother", "Father", "Grandfather", "Brother"],
+        "respuesta": "Grandfather"
+    },
+    {
+        "id": 6,
+        "pregunta": "En inglés, ¿cómo se dice 'hamburguesa'?",
+        "categoria": "Vocabulario (Comida)",
+        "opciones": ["Pizza", "Burger", "Salad", "Chicken"],
+        "respuesta": "Burger"
+    },
+    {
+        "id": 7,
+        "pregunta": "En inglés, ¿cómo se dice 'sombrero'?",
+        "categoria": "Vocabulario (Ropa)",
+        "opciones": ["Pants", "Shoes", "Hat", "Dress"],
+        "respuesta": "Hat"
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Cuál es la palabra en inglés para 'lluvia'?",
+        "categoria": "Vocabulario (Clima)",
+        "opciones": ["Rain", "Snow", "Wind", "Sunshine"],
+        "respuesta": "Rain"
+    },
+    {
+        "id": 9,
+        "pregunta": "En inglés, ¿cómo se dice 'tía'?",
+        "categoria": "Vocabulario (Familia)",
+        "opciones": ["Aunt", "Cousin", "Niece", "Sister"],
+        "respuesta": "Aunt"
+    },
+    {
+        "id": 10,
+        "pregunta": "En inglés, ¿cómo se dice 'ensalada'?",
+        "categoria": "Vocabulario (Comida)",
+        "opciones": ["Salmon", "Pasta", "Salad", "Soup"],
+        "respuesta": "Salad"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cómo se forma el presente continuo en inglés?",
+        "categoria": "Gramática (Presente Continuo)",
+        "opciones": ["Sujeto + verbo en pasado simple", "Sujeto + verbo en futuro simple", "Sujeto + verbo en presente continuo", "Sujeto + verbo en pasado perfecto"],
+        "respuesta": "Sujeto + verbo en presente continuo"
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cuál es la forma afirmativa del pasado simple en inglés para el verbo 'to eat'?",
+        "categoria": "Gramática (Pasado Simple)",
+        "opciones": ["I am eating", "I was eating", "I ate", "I will eat"],
+        "respuesta": "I ate"
+    },
+    {
+        "id": 13,
+        "pregunta": "En una oración en futuro simple, ¿cuál es la estructura común para formarla?",
+        "categoria": "Gramática (Futuro Simple)",
+        "opciones": ["Sujeto + verbo en pasado simple", "Sujeto + verbo en presente continuo", "Sujeto + verbo modal + infinitivo", "Sujeto + verbo en futuro simple"],
+        "respuesta": "Sujeto + verbo modal + infinitivo"
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuál es un ejemplo de una estructura de oración compleja en inglés?",
+        "categoria": "Gramática (Estructuras de Oraciones)",
+        "opciones": ["She goes to school.", "I like pizza.", "Although it was raining, they went out.", "He reads a book."],
+        "respuesta": "Although it was raining, they went out."
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Qué es un adjetivo en inglés?",
+        "categoria": "Gramática (Adjetivos)",
+        "opciones": ["Una palabra que describe un sustantivo.", "Una palabra que describe un verbo.", "Una palabra que describe una preposición.", "Una palabra que describe un adverbio."],
+        "respuesta": "Una palabra que describe un sustantivo."
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cuál es la forma comparativa del adjetivo 'tall' en inglés?",
+        "categoria": "Gramática (Adjetivos)",
+        "opciones": ["More tall", "Tallier", "Tallest", "Taller"],
+        "respuesta": "Taller"
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Qué es un adverbio en inglés?",
+        "categoria": "Gramática (Adverbios)",
+        "opciones": ["Una palabra que describe un sustantivo.", "Una palabra que describe un verbo.", "Una palabra que describe una preposición.", "Una palabra que describe un adjetivo."],
+        "respuesta": "Una palabra que describe un verbo."
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuál es un ejemplo de un adverbio de manera en inglés?",
+        "categoria": "Gramática (Adverbios)",
+        "opciones": ["Quickly", "Blue", "Table", "Happy"],
+        "respuesta": "Quickly"
+    },
+    {
+        "id": 19,
+        "pregunta": "En una oración en presente continuo, ¿qué estructura se utiliza para formarla?",
+        "categoria": "Gramática (Presente Continuo)",
+        "opciones": ["Sujeto + verbo en pasado simple", "Sujeto + verbo en futuro simple", "Sujeto + verbo modal + infinitivo", "Sujeto + verbo en presente continuo"],
+        "respuesta": "Sujeto + verbo en presente continuo"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es la forma negativa del pasado simple en inglés para el verbo 'to be'?",
+        "categoria": "Gramática (Pasado Simple)",
+        "opciones": ["I am not", "I wasn't", "I wasn't being", "I am being"],
+        "respuesta": "I wasn't"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cómo se dice 'amistad' en inglés?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["Happiness", "Friendship", "Loneliness", "Love"],
+        "respuesta": "Friendship"
+    },
+    {
+        "id": 22,
+        "pregunta": "En el contexto de un texto, ¿qué significa 'effort' en inglés?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["Trabajo", "Resultado", "Esperanza", "Esfuerzo"],
+        "respuesta": "Esfuerzo"
+    },
+    {
+        "id": 23,
+        "pregunta": "Si alguien está 'excited', ¿cómo se siente en español?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["Asustado", "Feliz", "Aburrido", "Emocionado"],
+        "respuesta": "Emocionado"
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué significa 'travel' en español?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["Viajar", "Descansar", "Estudiar", "Trabajar"],
+        "respuesta": "Viajar"
+    },
+    {
+        "id": 25,
+        "pregunta": "Si alguien dice 'weather' en inglés, ¿a qué se refiere?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["Tiempo", "Comida", "Ropa", "Lugares"],
+        "respuesta": "Tiempo"
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuál es el significado de 'experience' en español?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["Experiencia", "Conocimiento", "Viaje", "Dificultad"],
+        "respuesta": "Experiencia"
+    },
+    {
+        "id": 27,
+        "pregunta": "Si alguien menciona 'family' en inglés, ¿a quiénes se refiere?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["Amigos", "Vecinos", "Compañeros", "Familia"],
+        "respuesta": "Familia"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué palabra en inglés significa 'escuela'?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["School", "Home", "Park", "Store"],
+        "respuesta": "School"
+    },
+    {
+        "id": 29,
+        "pregunta": "Si alguien está 'hungry', ¿cómo se siente en español?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["Feliz", "Triste", "Hambriento", "Enojado"],
+        "respuesta": "Hambriento"
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuál es el significado de 'music' en español?",
+        "categoria": "Reading Intermediate",
+        "opciones": ["Libro", "Comida", "Música", "Juego"],
+        "respuesta": "Música"
+    }
+]

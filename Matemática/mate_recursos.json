@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "tipo": "Página web",
+        "nombre": "¿Cómo estudiar matemáticas? 10 tips",
+        "descripción": "Página que ofrece consejos para estudiar matemáticas",
+        "url": "https://goo.su/HwvAiY"
+    },
+    {
+        "id": 2,
+        "tipo": "Curso en línea",
+        "nombre": "Curso completo de matemáticas para el examen de admisión",
+        "descripción": "Un conjunto de videos que explican conceptos importantes de matemáticas a través de ejercicios ",
+        "url": "https://goo.su/htWf"
+    },
+    {
+        "id": 3,
+        "tipo": "Curso en línea",
+        "nombre": "Preparación para el examen de admisión",
+        "descripción": "Un conjunto de videos que explican conceptos importantes de matemáticas a través de ejercicios",
+        "url": "https://goo.su/YlKUDFB"
+    },
+    {
+        "id": 4,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de álgebra I",
+        "descripción": "Curso en línea que ofrece videos explicativos y ejercicios de práctica",
+        "url": "https://goo.su/iKX2zU"
+    },
+    {
+        "id": 5,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de álgebra II",
+        "descripción": "Curso en línea que ofrece videos explicativos y ejercicios de práctica",
+        "url": "https://goo.su/YVE6OV"
+    },
+    {
+        "id": 6,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de álgebra linear",
+        "descripción": "Curso en línea que ofrece videos explicativos y ejercicios de práctica",
+        "url": "https://goo.su/9u5MxrV"
+    },
+    {
+        "id": 7,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de trigonometría",
+        "descripción": "Curso en línea que ofrece videos explicativos y ejercicios de práctica",
+        "url": "https://goo.su/teYHJ"
+    },
+    {
+        "id": 8,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de geometría",
+        "descripción": "Curso en línea que ofrece videos explicativos y ejercicios de práctica",
+        "url": "https://goo.su/UUfO"
+    },
+    {
+        "id": 9,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de estadística",
+        "descripción": "Curso en línea que ofrece videos explicativos y ejercicios de práctica",
+        "url": "https://goo.su/kAl3g1"
+    },
+    {
+        "id": 10,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de cálculo I",
+        "descripción": "Curso en línea que ofrece videos explicativos y ejercicios de práctica",
+        "url": "https://goo.su/eE71"
+    },
+    {
+        "id": 11,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de cálculo II",
+        "descripción": "Curso en línea que ofrece videos explicativos y ejercicios de práctica",
+        "url": "https://goo.su/cDb2z"
+    },
+    {
+        "id": 12,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de álgebra",
+        "descripción": "Un conjunto de videos que explican conceptos importantes de álgebra a través de ejercicios ",
+        "url": "https://goo.su/Y1T4o"
+    },
+    {
+        "id": 13,
+        "tipo": "Curso en línea",
+        "nombre": "Curso completo de álgebra",
+        "descripción": "Un conjunto de videos que explican conceptos importantes de álgebra a través de ejercicios ",
+        "url": "https://goo.su/N1jcSvt"
+    },
+    {
+        "id": 14,
+        "tipo": "Curso en línea",
+        "nombre": "Curso completo de trigonometría",
+        "descripción": "Un conjunto de videos que explican conceptos importantes de trigonometría a través de ejercicios ",
+        "url": "https://goo.su/QkyWXx"
+    },
+    {
+        "id": 15,
+        "tipo": "Video",
+        "nombre": "Geometría analítica desde cero: Sistemas de coordenadas y ecuaciones",
+        "descripción": "Video que ofrece una explicación completa de los sistemas de coordenadas y ecuaciones",
+        "url": "https://goo.su/JZ3hQh1"
+    },
+    {
+        "id": 16,
+        "tipo": "Curso en línea",
+        "nombre": "Curso completo de geometría analítica",
+        "descripción": "Un conjunto de videos que explican conceptos importantes de geometría analítica a través de ejercicios ",
+        "url": "https://goo.su/P2J1Hzi"
+    },
+    {
+        "id": 17,
+        "tipo": "Curso en línea",
+        "nombre": "Curso completo de geometría analítica",
+        "descripción": "Un conjunto de videos que explican conceptos importantes de geometría analítica a través de ejercicios ",
+        "url": "https://goo.su/8AYV2IU"
+    },
+    {
+        "id": 18,
+        "tipo": "Curso en línea",
+        "nombre": "Curso completo de precálculo",
+        "descripción": "Un conjunto de videos que explican conceptos importantes de precálculo a través de ejercicios ",
+        "url": "https://goo.su/4ycPro"
+    },
+    {
+        "id": 19,
+        "tipo": "Video",
+        "nombre": "¿Cómo aprender cálculo diferencial, integral, vectorial, etc?",
+        "descripción": "Video que ofrece consejos para los estudiantes que deseen aprender cálculo",
+        "url": "https://goo.su/y1xua6x"
+    },
+    {
+        "id": 20,
+        "tipo": "Video",
+        "nombre": "¿Cómo aprender Matemáticas más rápido?",
+        "descripción": "Video que ofrece consejos para estudiar matemáticas de una forma efectiva y duradera",
+        "url": "https://goo.su/LN3gO"
+    }
+]

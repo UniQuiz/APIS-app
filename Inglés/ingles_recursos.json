@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "tipo": "Video",
+        "nombre": "Curso de inglés desde el inicio para principiantes hasta avanzado",
+        "descripción": "Video que ofrece lecciones del idioma inglés para principiantes hasta avanzado",
+        "url": "https://goo.su/L5UM6"
+    },
+    {
+        "id": 2,
+        "tipo": "Libro",
+        "nombre": "English for Everyone. Gramática Inglesa", 
+        "descripción": "Libro que ayuda a mejorar la gramática del idioma inglés.  ",
+        "url": "https://goo.su/GkeyUj"
+    },
+    {
+        "id": 3,
+        "tipo": "Video",
+        "nombre": "¿Cómo aprender el inglés rápido y fácil? ",
+        "descripción": "Video que ofrece consejos para el estudio del idioma inglés",
+        "url": "https://goo.su/aEORmLu"
+    },
+    {
+        "id": 4,
+        "tipo": "Video",
+        "nombre": "Verbo TO BE - Domínalo de una vez por todas.",
+        "descripción": "Video que explica el verbo TO BE",
+        "url": "https://goo.su/efRJzhl"
+    },
+    {
+        "id": 5,
+        "tipo": "Página web",
+        "nombre": "Cambridge. English Language Assessment",
+        "descripción": "Página que ofrece orientación para aprender el idioma inglés",
+        "url": "https://goo.su/IEwJUt"
+    },
+    {
+        "id": 6,
+        "tipo": "Página web",
+        "nombre": "British Council México",
+        "descripción": "Página que ofrece orientación para aprender el idioma inglés",
+        "url": "https://goo.su/EiHzj8"
+    },
+    {
+        "id": 7,
+        "tipo": "Libro",
+        "nombre": "Word Power Made Easy",
+        "descripción": "Libro que ayuda a mejorar el vocabulario en inglés",
+        "url": "https://goo.su/hGx1"
+    },
+    {
+        "id": 8,
+        "tipo": "Libro",
+        "nombre": "The Vocabulary Builder Workbook",
+        "descripción": "Libro de ejercicios que ayuda a aprender y recordar nuevas palabras a través de ejercicios",
+        "url": "https://goo.su/yTVzp"
+    },
+    {
+        "id": 9,
+        "tipo":"Curso en línea",
+        "nombre": "Curso de Inglés - Frases y vocabulario",
+        "descripción": "Un conjunto de videos que enseñan frases y vocabulario en inglés",
+        "url": "https://goo.su/E50G"
+    },
+    {
+        "id": 10,
+        "tipo": "Curso en línea",
+        "nombre": "Lista de frases en inglés con su traducción",
+        "descripción": "Un conjunto de videos que enseñan frases en inglés y su traducción",
+        "url": "https://goo.su/pNYIb4"
+    },
+    {
+        "id": 11,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de Inglés",
+        "descripción": "Un conjunto de videos con lecciones de inglés desde el inicio para principiantes hasta avanzado",
+        "url": "https://goo.su/TDMzb"
+    },
+    {
+        "id": 12,
+        "tipo": "Curso en línea",
+        "nombre": "Lista completa de vocabulario en inglés",
+        "descripción": "Un conjunto de videos con lecciones de vocabulario en inglés desde el inicio para principiantes hasta avanzado",
+        "url": "https://goo.su/KeLl"
+    },
+    {
+        "id": 13,
+        "tipo": "Curso en línea",
+        "nombre": "Oraciones con Pasado, Presente y Futuro Continuo en inglés",
+        "descripción": "Un conjunto de videos con lecciones de pasado, presente y futuro continuo en inglés",
+        "url": "https://goo.su/gjMXXX"
+    },
+    {
+        "id": 14,
+        "tipo": "Curso en línea",
+        "nombre": "Past Perfect, Present Perfect, Future Perfect",
+        "descripción": "Un conjunto de videos con lecciones de pasado, presente y futuro perfecto en inglés",
+        "url": "https://goo.su/64yW57E"
+    },
+    {
+        "id": 15,
+        "tipo": "Curso en línea",
+        "nombre": "Condicionales en Inglés",
+        "descripción": "Un conjunto de videos con lecciones de condicionales en inglés",
+        "url": "https://goo.su/vvqLyw5"
+    },
+    {
+        "id": 16,
+        "tipo": "Curso en línea",
+        "nombre": "Curso en Inglés: Pronombres - Verb TO BE - Contracciones - Oraciones Negativas, Interrogativas",
+        "descripción": "Un conjunto de videos con lecciones de temas básicos del idioma inglés",
+        "url": "https://goo.su/pxWAt"
+    },
+    {
+        "id": 17,
+        "tipo": "Video",
+        "nombre": "Tips para mejorar tu INGLÉS",
+        "descripción": "Video que ofrece consejos para mejorar el inglés",
+        "url": "https://goo.su/X7WiUP"
+    },
+    {
+        "id": 18,
+        "tipo": "Video",
+        "nombre": "5 hábitos fáciles para aprender o mejorar inglés",
+        "descripción": "Video que ofrece consejos para el estudio del idioma inglés",
+        "url": "https://goo.su/9xvB4kh"
+    },
+    {
+        "id": 19,
+        "tipo": "Video",
+        "nombre": "3 actividades DIARIAS para aumentar tu VOCABULARIO EN INGLÉS",
+        "descripción": "Video que ofrece consejos para aumentar vocabulario del idioma inglés",
+        "url": "https://goo.su/nGfa"
+    },
+    {
+        "id": 20,
+        "tipo": "Video",
+        "nombre": "5 recomendaciones para mejorar tu nivel de inglés",
+        "descripción": "Video que ofrece consejos para el estudio del idioma inglés",
+        "url": "https://goo.su/RtHRZ"
+    }
+]

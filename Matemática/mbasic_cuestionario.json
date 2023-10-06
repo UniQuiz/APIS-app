@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es el resultado de 25 + 17?",
+        "categoria": "Operaciones básicas",
+        "opciones": ["37", "42", "51", "62"],
+        "respuesta": "42"
+    },
+    {
+        "id": 2,
+        "pregunta": "Si tienes $50 y gastas $20, ¿cuánto dinero te queda?",
+        "categoria": "Operaciones básicas",
+        "opciones": ["$20", "$30", "$40", "$10"],
+        "respuesta": "$30"
+    },
+    {
+        "id": 3,
+        "pregunta": "Si compras 3 camisetas a $15 cada una, ¿cuánto gastarás en total?",
+        "categoria": "Operaciones básicas",
+        "opciones": ["$30", "$35", "$40", "$45"],
+        "respuesta": "$45"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es el resultado de 6 * 8?",
+        "categoria": "Operaciones básicas",
+        "opciones": ["36", "42", "48", "56"],
+        "respuesta": "48"
+    },
+    {
+        "id": 5,
+        "pregunta": "Si tienes una pizza y la divides en 4 partes iguales, ¿en cuántas partes tendrás la pizza?",
+        "categoria": "Fracciones, decimales y porcentajes",
+        "opciones": ["2", "3", "4", "5"],
+        "respuesta": "4"
+    },
+    {
+        "id": 6,
+        "pregunta": "Si pagas $15 por un artículo que originalmente costaba $20, ¿qué porcentaje de descuento recibiste?",
+        "categoria": "Fracciones, decimales y porcentajes",
+        "opciones": ["10%", "15%", "20%", "25%"],
+        "respuesta": "25%"
+    },
+    {
+        "id": 7,
+        "pregunta": "Si 2 de cada 5 estudiantes en una clase son niñas, ¿cuál es la razón de niñas a niños en la clase?",
+        "categoria": "Proporciones y razones",
+        "opciones": ["2:3", "1:3", "3:2", "3:1"],
+        "respuesta": "2:3"
+    },
+    {
+        "id": 8,
+        "pregunta": "Si puedes recorrer 60 millas en 2 horas, ¿a qué velocidad promedio estás viajando?",
+        "categoria": "Proporciones y razones",
+        "opciones": ["15 mph", "20 mph", "30 mph", "45 mph"],
+        "respuesta": "30 mph"
+    },
+    {
+        "id": 9,
+        "pregunta": "Si 3 litros de jugo cuestan $9, ¿cuánto cuestan 5 litros de jugo?",
+        "categoria": "Regla de tres simple y compuesta",
+        "opciones": ["$15", "$12", "$10", "$7"],
+        "respuesta": "$15"
+    },
+    {
+        "id": 10,
+        "pregunta": "Si un coche recorre 300 kilómetros en 4 horas, ¿cuál es su velocidad promedio en kilómetros por hora?",
+        "categoria": "Regla de tres simple y compuesta",
+        "opciones": ["75 km/h", "80 km/h", "85 km/h", "90 km/h"],
+        "respuesta": "75 km/h"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cuál es la solución de la ecuación 2x + 3 = 7?",
+        "categoria": "Ecuaciones lineales de primer grado",
+        "opciones": ["x = 2", "x = 3", "x = 4", "x = 5"],
+        "respuesta": "x = 2"
+    },
+    {
+        "id": 12,
+        "pregunta": "Simplifica la expresión algebraica 3x + 2x - 5x.",
+        "categoria": "Expresiones algebraicas simples",
+        "opciones": ["-4x", "0", "5x", "x"],
+        "respuesta": "-4x"
+    },
+    {
+        "id": 13,
+        "pregunta": "Resuelve la ecuación 4(x - 3) = 16.",
+        "categoria": "Resolución de ecuaciones y desigualdades lineales",
+        "opciones": ["x = 5", "x = 6", "x = 7", "x = 8"],
+        "respuesta": "x = 7"
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuál es la solución de la ecuación 3x + 2 = 5?",
+        "categoria": "Ecuaciones lineales de primer grado",
+        "opciones": ["x = 1", "x = 2", "x = 3", "x = 4"],
+        "respuesta": "x = 1"
+    },
+    {
+        "id": 15,
+        "pregunta": "Simplifica la expresión algebraica 2(3x - 2).",
+        "categoria": "Expresiones algebraicas simples",
+        "opciones": ["6x - 2", "6x - 4", "3x - 2", "3x - 4"],
+        "respuesta": "6x - 4"
+    },
+    {
+        "id": 16,
+        "pregunta": "Resuelve la ecuación 2x + 5 = 3x - 1.",
+        "categoria": "Resolución de ecuaciones y desigualdades lineales",
+        "opciones": ["x = 6", "x = 4", "x = 2", "x = 0"],
+        "respuesta": "x = 6"
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Cuál es la solución de la ecuación 5x - 8 = 12?",
+        "categoria": "Ecuaciones lineales de primer grado",
+        "opciones": ["x = 2", "x = 4", "x = 5", "x = 6"],
+        "respuesta": "x = 4"
+    },
+    {
+        "id": 18,
+        "pregunta": "Simplifica la expresión algebraica 2x + 3x + 4x.",
+        "categoria": "Expresiones algebraicas simples",
+        "opciones": ["9x", "10x", "11x", "12x"],
+        "respuesta": "9x"
+    },
+    {
+        "id": 19,
+        "pregunta": "Resuelve la ecuación 2(2x - 1) = 10.",
+        "categoria": "Resolución de ecuaciones y desigualdades lineales",
+        "opciones": ["x = 2", "x = 3", "x = 4", "x = 5"],
+        "respuesta": "x = 3"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es la solución de la ecuación 3x - 7 = 8?",
+        "categoria": "Ecuaciones lineales de primer grado",
+        "opciones": ["x = 1", "x = 2", "x = 3", "x = 4"],
+        "respuesta": "x = 5"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cuál es la fórmula para calcular el área de un círculo?",
+        "categoria": "Figuras geométricas básicas",
+        "opciones": ["A = πr^2", "A = 2πr", "A = πd", "A = 2d"],
+        "respuesta": "A = πr^2"
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Cuál es la fórmula para calcular el perímetro de un cuadrado con un lado de longitud 'a'?",
+        "categoria": "Perímetro y área de figuras simples",
+        "opciones": ["P = 2a", "P = 3a", "P = 4a", "P = 5a"],
+        "respuesta": "P = 4a"
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Cuál es la fórmula para calcular el área de un triángulo con base 'b' y altura 'h'?",
+        "categoria": "Perímetro y área de figuras simples",
+        "opciones": ["A = (1/2)bh", "A = bh", "A = 2bh", "A = (1/4)bh"],
+        "respuesta": "A = (1/2)bh"
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Cuántos lados tiene un círculo?",
+        "categoria": "Figuras geométricas básicas",
+        "opciones": ["3", "4", "0", "Infinitos"],
+        "respuesta": "0"
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Cuál es la fórmula para calcular el volumen de un cubo con un lado de longitud 'a'?",
+        "categoria": "Volumen básico",
+        "opciones": ["V = a^2", "V = a^3", "V = 2a", "V = 3a"],
+        "respuesta": "V = a^3"
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuál es la fórmula para calcular el perímetro de un triángulo equilátero con un lado de longitud 'a'?",
+        "categoria": "Perímetro y área de figuras simples",
+        "opciones": ["P = a^2", "P = 2a", "P = 3a", "P = 4a"],
+        "respuesta": "P = 3a"
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Cuál es la fórmula para calcular el área de un círculo con radio 'r'?",
+        "categoria": "Perímetro y área de figuras simples",
+        "opciones": ["A = 2πr", "A = πr^2", "A = πd", "A = 2d"],
+        "respuesta": "A = πr^2"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Cuál es la fórmula para calcular el volumen de una esfera con radio 'r'?",
+        "categoria": "Volumen básico",
+        "opciones": ["V = 2πr^2", "V = (4/3)πr^3", "V = πr^2", "V = (1/2)πr^2"],
+        "respuesta": "V = (4/3)πr^3"
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Cuál es la fórmula para calcular el perímetro de un círculo con radio 'r'?",
+        "categoria": "Perímetro y área de figuras simples",
+        "opciones": ["P = 2πr", "P = πr", "P = 2r", "P = 3πr"],
+        "respuesta": "P = 2πr"
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuál es la fórmula para calcular el área de un cuadrado con un lado de longitud 'a'?",
+        "categoria": "Perímetro y área de figuras simples",
+        "opciones": ["A = a^2", "A = a", "A = 2a", "A = 4a"],
+        "respuesta": "A = a^2"
+    }
+]

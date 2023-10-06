@@ -1,0 +1,220 @@
+[
+    {
+        "id": 1,
+        "pregunta": "Si todos los gatos son animales y algunos animales son perros, ¿puede concluirse que algunos gatos son perros?",
+        "categoria": "Lógica Proposicional",
+        "opciones": ["Sí","No"],
+        "respuesta": "No"
+    },
+    {
+        "id": 2,
+        "pregunta": "Si Juan es más alto que María y María es más alta que Carlos, ¿quién es la persona más alta?",
+        "categoria": "Razonamiento Deductivo",
+        "opciones": ["Juan","María","Carlos"],
+        "respuesta": "Juan"
+    },
+    {
+        "id": 3,
+        "pregunta": "Si todos los estudiantes de esta clase aprobaron el examen, ¿puede concluirse que Juan, que es estudiante de esta clase, aprobó el examen?",
+        "categoria": "Lógica Proposicional",
+        "opciones": ["Sí","No"],
+        "respuesta": "Sí"
+    },
+    {
+        "id": 4,
+        "pregunta": "Si todos los triángulos tienen tres lados y esta figura tiene tres lados, ¿qué puede decirse de esta figura?",
+        "categoria": "Razonamiento Deductivo",
+        "opciones": ["Es un triángulo","No es un triángulo"],
+        "respuesta": "Es un triángulo"
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cuál es el siguiente número en la serie: 2, 4, 8, 16, ...?",
+        "categoria": "Resolución de Problemas Complejos",
+        "opciones": ["24","32","64","128"],
+        "respuesta": "32"
+    },
+    {
+        "id": 6,
+        "pregunta": "Si algunos pájaros vuelan y todos los pájaros son animales, ¿qué puede concluirse sobre los animales?",
+        "categoria": "Lógica Proposicional",
+        "opciones": ["Nada","Algunos animales vuelan","Todos los animales vuelan"],
+        "respuesta": "Algunos animales vuelan"
+    },
+    {
+        "id": 7,
+        "pregunta": "Si ningún gato es un pez y algunos peces son peces dorados, ¿qué puede decirse sobre los gatos dorados?",
+        "categoria": "Razonamiento Inductivo",
+        "opciones": ["Son gatos","No son gatos","Son peces dorados","No se puede determinar"],
+        "respuesta": "No se puede determinar"
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Cuál es la siguiente letra en la serie: A, C, E, G, ...?",
+        "categoria": "Resolución de Problemas Complejos",
+        "opciones": ["I","K","M","O"],
+        "respuesta": "I"
+    },
+    {
+        "id": 9,
+        "pregunta": "Si algunos estudiantes estudian matemáticas y todos los matemáticos son científicos, ¿qué puede concluirse sobre algunos científicos?",
+        "categoria": "Lógica Proposicional",
+        "opciones": ["Son estudiantes","Son matemáticos","Son estudiantes que estudian matemáticas","No se puede determinar"],
+        "respuesta": "Son estudiantes que estudian matemáticas"
+    },
+    {
+        "id": 10,
+        "pregunta": "Si ningún automóvil es una bicicleta y algunas bicicletas son vehículos, ¿qué puede decirse sobre los automóviles?",
+        "categoria": "Razonamiento Inductivo",
+        "opciones": ["Son vehículos","No son vehículos","Son bicicletas","No se puede determinar"],
+        "respuesta": "No se puede determinar"
+    },
+    {
+        "id": 11,
+        "pregunta": "Resuelve la ecuación: 3x + 5 = 20",
+        "categoria": "Álgebra Avanzada",
+        "opciones": ["x = 5","x = 7","x = 8","x = 9"],
+        "respuesta": "x = 5"
+    },
+    {
+        "id": 12,
+        "pregunta": "Si un triángulo tiene un ángulo recto (90 grados), ¿qué tipo de triángulo es?",
+        "categoria": "Geometría Básica",
+        "opciones": ["Equilátero","Isósceles","Escaleno","Rectángulo"],
+        "respuesta": "Rectángulo"
+    },
+    {
+        "id": 13,
+        "pregunta": "Calcula el seno del ángulo de 30 grados.",
+        "categoria": "Trigonometría",
+        "opciones": ["0.5","1","0.866","0.707"],
+        "respuesta": "0.5"
+    },
+    {
+        "id": 14,
+        "pregunta": "Si se lanza un dado justo (de 6 caras) dos veces, ¿cuál es la probabilidad de obtener dos veces el número 3?",
+        "categoria": "Análisis de Datos y Estadísticas",
+        "opciones": ["1/6","1/12","1/36","1/18"],
+        "respuesta": "1/36"
+    },
+    {
+        "id": 15,
+        "pregunta": "Resuelve la siguiente ecuación cuadrática: x^2 - 4x + 4 = 0",
+        "categoria": "Álgebra Avanzada",
+        "opciones": ["x = 2","x = 4","x = -2","x = -4"],
+        "respuesta": "x = 2"
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cuál es el área de un triángulo con base de 8 cm y altura de 10 cm?",
+        "categoria": "Geometría Básica",
+        "opciones": ["40 cm²","20 cm²","80 cm²","4 cm²"],
+        "respuesta": "40 cm²"
+    },
+    {
+        "id": 17,
+        "pregunta": "Calcula el coseno del ángulo de 45 grados.",
+        "categoria": "Trigonometría",
+        "opciones": ["1","0.5","0.707","0.866"],
+        "respuesta": "0.707"
+    },
+    {
+        "id": 18,
+        "pregunta": "En un conjunto de datos, ¿cuál es la mediana si los valores son 5, 8, 12, 15, 18?",
+        "categoria": "Análisis de Datos y Estadísticas",
+        "opciones": ["12","15","8","18"],
+        "respuesta": "12"
+    },
+    {
+        "id": 19,
+        "pregunta": "Resuelve la ecuación: 2y - 3 = 7",
+        "categoria": "Álgebra Avanzada",
+        "opciones": ["y = 2","y = 5","y = 7","y = 10"],
+        "respuesta": "y = 5"
+    },
+    {
+        "id": 20,
+        "pregunta": "Calcula el área de un círculo con radio de 5 cm (utiliza π como 3.1416).",
+        "categoria": "Geometría Básica",
+        "opciones": ["78.54 cm²","31.42 cm²","50.24 cm²","15.71 cm²"],
+        "respuesta": "78.54 cm²"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor el propósito principal de un texto académico?",
+        "categoria": "Comprensión de Textos",
+        "opciones": ["Entretener al lector","Informar al lector","Persuadir al lector","Desafiar al lector"],
+        "respuesta": "Informar al lector"
+    },
+    {
+        "id": 22,
+        "pregunta": "En un argumento lógico, ¿cuál es el papel de las premisas?",
+        "categoria": "Identificación de Argumentos",
+        "opciones": ["Concluir el argumento","Apoyar la conclusión","Rechazar la conclusión","Ignorar la conclusión"],
+        "respuesta": "Apoyar la conclusión"
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué tipo de falacia ocurre cuando se ataca al carácter de una persona en lugar de argumentar en contra de sus ideas?",
+        "categoria": "Identificación de Falacias",
+        "opciones": ["Falacia ad hominem","Falacia de afirmación del consecuente","Falacia de falsa causa","Falacia de ambigüedad"],
+        "respuesta": "Falacia ad hominem"
+    },
+    {
+        "id": 24,
+        "pregunta": "En un texto técnico, ¿qué significa el término 'acrónimo'?",
+        "categoria": "Comprensión de Términos Técnicos",
+        "opciones": ["Una palabra que suena como otra pero tiene un significado diferente","Una abreviatura formada por las letras iniciales de palabras largas",
+        "Un lenguaje ambiguo utilizado en la escritura técnica","Una forma de argumentación lógica"
+        ],
+        "respuesta": "Una abreviatura formada por las letras iniciales de palabras largas"
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Cuál de las siguientes afirmaciones es una inferencia válida basada en el siguiente enunciado? 'Todos los mamíferos tienen pelo. Los gatos son mamíferos.'",
+        "categoria": "Inferencia a partir de Premisas",
+        "opciones": ["Todos los mamíferos son gatos.","Los gatos no tienen pelo.","Los gatos tienen pelo.","Los gatos no son mamíferos."],
+        "respuesta": "Los gatos tienen pelo."
+    },
+    {
+        "id": 26,
+        "pregunta": "En un texto argumentativo, ¿cuál es el objetivo principal del autor?",
+        "categoria": "Análisis Crítico de Textos",
+        "opciones": ["Entretener al lector","Presentar información objetiva",
+        "Persuadir al lector de una posición","Evitar la discusión de temas controvertidos"],
+        "respuesta": "Persuadir al lector de una posición"
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Cuál de las siguientes estrategias de lectura se utiliza para comprender el significado de una palabra desconocida en un texto?",
+        "categoria": "Comprensión de Lectura",
+        "opciones": ["Ignorar la palabra y continuar leyendo", "Buscar la palabra en un diccionario",
+        "Adivinar el significado basado en el contexto","Saltar la palabra y volver a ella más tarde"
+        ],
+        "respuesta": "Adivinar el significado basado en el contexto"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué tipo de texto es más probable que contenga datos estadísticos y análisis numéricos?",
+        "categoria": "Comprensión de Textos Técnicos",
+        "opciones": ["Una novela de ficción","Un informe de investigación científica",
+        "Un poema lírico","Un libro de cocina"
+        ],
+        "respuesta": "Un informe de investigación científica"
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Qué es un sinónimo de la palabra 'generoso'?",
+        "categoria": "Reconocimiento de Sinónimos",
+        "opciones": ["Avaro","Egoísta","Altruista","Tacaño"],
+        "respuesta": "Altruista"
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor la estructura de un párrafo de introducción en un texto académico?",
+        "categoria": "Evaluación de la Estructura de un Texto",
+        "opciones": ["Presenta la tesis principal y los argumentos de apoyo","Resume todo el texto en pocas oraciones",
+        "Ofrece ejemplos concretos","Introduce personajes y escenario"],
+        "respuesta": "Presenta la tesis principal y los argumentos de apoyo"
+    }
+]

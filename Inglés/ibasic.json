@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es la traducción de 'Hello' al español?",
+        "categoria": "Saludos y despedidas",
+        "opciones": ["Hola", "Adiós", "Por favor", "Gracias"],
+        "respuesta": "Hola"
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cuál es la traducción de 'Goodbye' al español?",
+        "categoria": "Saludos y despedidas",
+        "opciones": ["Hola", "Adiós", "Por favor", "Gracias"],
+        "respuesta": "Adiós"
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Qué número representa 'five' en inglés?",
+        "categoria": "Números y fechas",
+        "opciones": ["Uno", "Dos", "Tres", "Cinco"],
+        "respuesta": "Cinco"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es la traducción de 'red' al español?",
+        "categoria": "Colores",
+        "opciones": ["Azul", "Verde", "Rojo", "Amarillo"],
+        "respuesta": "Rojo"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cuál es la traducción de 'Thursday' al español?",
+        "categoria": "Días de la semana y meses del año",
+        "opciones": ["Lunes", "Martes", "Miércoles", "Jueves"],
+        "respuesta": "Jueves"
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Cuál es el mes que sigue a 'April' en inglés?",
+        "categoria": "Días de la semana y meses del año",
+        "opciones": ["May", "June", "July", "August"],
+        "respuesta": "May"
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cómo se dice 'Gracias' en inglés?",
+        "categoria": "Expresiones comunes",
+        "opciones": ["Please", "Goodbye", "Thank you", "I'm sorry"],
+        "respuesta": "Goodbye"
+    },
+    {
+        "id": 8,
+        "pregunta": "Si alguien te pregunta 'How are you?', ¿cuál sería una respuesta común?",
+        "categoria": "Expresiones comunes",
+        "opciones": ["I'm fine, thank you.", "Goodbye.", "What's your name?", "Yes, please."],
+        "respuesta": "I'm fine, thank you."
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cuál es la traducción de 'Monday' al español?",
+        "categoria": "Días de la semana y meses del año",
+        "opciones": ["Lunes", "Martes", "Miércoles", "Jueves"],
+        "respuesta": "Lunes"
+    },
+    {
+        "id": 10,
+        "pregunta": "Si alguien te pregunta 'What's your name?', ¿qué deberías responder?",
+        "categoria": "Expresiones comunes",
+        "opciones": ["Hello.", "My name is John.", "Goodbye.", "Thank you."],
+        "respuesta": "My name is John."
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cuál es el pronombre personal en inglés para 'yo'?",
+        "categoria": "Pronombres personales",
+        "opciones": ["I", "You", "He", "She"],
+        "respuesta": "I"
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cuál es el pronombre personal en inglés para 'él'?",
+        "categoria": "Pronombres personales",
+        "opciones": ["I", "You", "He", "She"],
+        "respuesta": "He"
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Cuál es el verbo 'to be' en la forma afirmativa (presente simple) para 'yo'?",
+        "categoria": "Verbos en presente simple",
+        "opciones": ["am", "is", "are", "be"],
+        "respuesta": "am"
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuál es el verbo 'to be' en la forma afirmativa (presente simple) para 'él'?",
+        "categoria": "Verbos en presente simple",
+        "opciones": ["am", "is", "are", "be"],
+        "respuesta": "is"
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cómo se dice 'ella es médica' en inglés?",
+        "categoria": "Verbos en presente simple",
+        "opciones": ["She am a doctor.", "She is a doctor.", "She are a doctor.", "She be a doctor."],
+        "respuesta": "She is a doctor."
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cuál es la forma correcta de hacer una pregunta simple en inglés para '¿Tú eres estudiante?'",
+        "categoria": "Preguntas y respuestas simples (yes/no questions)",
+        "opciones": ["Are you a student?", "You are a student?", "Are you student?", "You student are?"],
+        "respuesta": "Are you a student?"
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Cuál es la forma correcta de responder 'Sí, lo soy' en inglés?",
+        "categoria": "Preguntas y respuestas simples (yes/no questions)",
+        "opciones": ["Yes, I am.", "No, I am not.", "Yes, I'm not.", "No, I'm."],
+        "respuesta": "Yes, I am."
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuál es el pronombre personal en inglés para 'nosotros'?",
+        "categoria": "Pronombres personales",
+        "opciones": ["We", "You", "They", "I"],
+        "respuesta": "We"
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Cuál es el verbo 'to be' en la forma afirmativa (presente simple) para 'ellos'?",
+        "categoria": "Verbos en presente simple",
+        "opciones": ["am", "is", "are", "be"],
+        "respuesta": "are"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es la forma correcta de hacer una pregunta simple en inglés para '¿Ella es médica?'",
+        "categoria": "Preguntas y respuestas simples (yes/no questions)",
+        "opciones": ["Is she a doctor?", "She is a doctor?", "She doctor is?", "Is doctor she?"],
+        "respuesta": "Is she a doctor?"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cuál es la traducción de 'dog' al inglés?",
+        "categoria": "Vocabulario (Nivel A1)",
+        "opciones": ["Gato", "Perro", "Pájaro", "Casa"],
+        "respuesta": "Perro"
+    },
+    {
+        "id": 22,
+        "pregunta": "En la frase 'Hello, my name is Sarah,' ¿cómo se dice 'nombre' en inglés?",
+        "categoria": "Vocabulario (Nivel A1)",
+        "opciones": ["Name", "Hello", "My", "Is"],
+        "respuesta": "Name"
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué significa 'book' en inglés?",
+        "categoria": "Vocabulario (Nivel A1)",
+        "opciones": ["Pelota", "Libro", "Casa", "Comida"],
+        "respuesta": "Libro"
+    },
+    {
+        "id": 24,
+        "pregunta": "En la oración 'She is eating pizza,' ¿qué está haciendo 'She'?",
+        "categoria": "Comprensión de Oraciones (Nivel A1)",
+        "opciones": ["Bebiendo agua", "Durmiendo", "Comiendo pizza", "Leyendo un libro"],
+        "respuesta": "Comiendo pizza"
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Cómo se dice 'good morning' en inglés?",
+        "categoria": "Vocabulario (Nivel A1)",
+        "opciones": ["Buenos días", "Buenas noches", "Adiós", "Por favor"],
+        "respuesta": "Buenos días"
+    },
+    {
+        "id": 26,
+        "pregunta": "En la oración 'They are playing soccer,' ¿qué deporte están practicando?",
+        "categoria": "Comprensión de Oraciones (Nivel A1)",
+        "opciones": ["Natación", "Fútbol", "Tenis", "Baloncesto"],
+        "respuesta": "Fútbol"
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Cuál es la traducción de 'cat' al español?",
+        "categoria": "Vocabulario (Nivel A1)",
+        "opciones": ["Perro", "Gato", "Pájaro", "Casa"],
+        "respuesta": "Gato"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Cómo se dice 'I want to go to the beach' en español?",
+        "categoria": "Expresiones (Nivel A2)",
+        "opciones": ["Quiero una pizza", "Voy al cine", "Quiero ir a la playa", "Necesito un libro"],
+        "respuesta": "Quiero ir a la playa"
+    },
+    {
+        "id": 29,
+        "pregunta": "En la oración 'They are going shopping,' ¿qué van a hacer?",
+        "categoria": "Comprensión de Oraciones (Nivel A2)",
+        "opciones": ["Jugar fútbol", "Ir de compras", "Estudiar matemáticas", "Cocinar cena"],
+        "respuesta": "Ir de compras"
+    },
+    {
+        "id": 30,
+        "pregunta": "En la oración 'She is reading a book,' ¿qué está haciendo?",
+        "categoria": "Comprensión de Oraciones (Nivel A2)",
+        "opciones": ["Cocinando", "Mirando la televisión", "Leyendo un libro", "Bailando"],
+        "respuesta": "Leyendo un libro"
+    }
+]

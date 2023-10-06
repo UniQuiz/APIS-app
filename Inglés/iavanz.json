@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es el término en inglés para 'ingeniería civil'?",
+        "categoria": "Vocabulario Avanzado (Ingeniería Civil)",
+        "opciones": ["Civil engineering", "Mechanical engineering", "Electrical engineering", "Chemical engineering"],
+        "respuesta": "Civil engineering"
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cuál es el término en inglés para 'ingeniero mecánico'?",
+        "categoria": "Vocabulario Avanzado (Ingeniería Mecánica)",
+        "opciones": ["Electrical engineer", "Mechanical engineer", "Chemical engineer", "Industrial engineer"],
+        "respuesta": "Mechanical engineer"
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cuál es el término en inglés para 'ingeniería química'?",
+        "categoria": "Vocabulario Avanzado (Ingeniería Química)",
+        "opciones": ["Mechanical engineering", "Civil engineering", "Electrical engineering", "Chemical engineering"],
+        "respuesta": "Chemical engineering"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es el término en inglés para 'ingeniería de sistemas'?",
+        "categoria": "Vocabulario Avanzado (Ingeniería de Sistemas)",
+        "opciones": ["Computer science", "Software engineering", "Systems engineering", "Information technology"],
+        "respuesta": "Systems engineering"
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cuál es el término en inglés para 'proyecto de ingeniería'?",
+        "categoria": "Vocabulario Avanzado (Ingeniería)",
+        "opciones": ["Engineering project", "Technical plan", "Architectural design", "Construction site"],
+        "respuesta": "Engineering project"
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Cuál es el término en inglés para 'diseño de circuitos' en ingeniería eléctrica?",
+        "categoria": "Vocabulario Avanzado (Ingeniería Eléctrica)",
+        "opciones": ["Circuit design", "Wireless communication", "Power generation", "Electronic components"],
+        "respuesta": "Circuit design"
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cuál es el término en inglés para 'gestión de proyectos' en la ingeniería de gestión?",
+        "categoria": "Vocabulario Avanzado (Ingeniería de Gestión)",
+        "opciones": ["Project management", "Quality control", "Supply chain", "Logistics"],
+        "respuesta": "Project management"
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Cuál es el término en inglés para 'ingeniería industrial'?",
+        "categoria": "Vocabulario Avanzado (Ingeniería Industrial)",
+        "opciones": ["Industrial design", "Manufacturing engineering", "Production engineering", "Industrial engineering"],
+        "respuesta": "Industrial engineering"
+    },
+    {
+        "id": 9,
+        "pregunta": "En la ingeniería de control, ¿cómo se dice 'bucle de retroalimentación' en inglés?",
+        "categoria": "Vocabulario Avanzado (Ingeniería de Control)",
+        "opciones": ["Control algorithm", "Feedback loop", "Signal processing", "Data analysis"],
+        "respuesta": "Feedback loop"
+    },
+    {
+        "id": 10,
+        "pregunta": "En la ingeniería informática, ¿cómo se dice 'cifrado de datos' en inglés?",
+        "categoria": "Vocabulario Avanzado (Ingeniería Informática)",
+        "opciones": ["Data analysis", "Data encryption", "Data storage", "Data transmission"],
+        "respuesta": "Data encryption"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cuál es la forma del presente perfecto en inglés para el verbo 'to eat'?",
+        "categoria": "Tiempos Verbales (Presente Perfecto)",
+        "opciones": ["I am eating", "I have eaten", "I will eat", "I eat"],
+        "respuesta": "I have eaten"
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cómo se forma una oración en voz pasiva en inglés?",
+        "categoria": "Voz Pasiva",
+        "opciones": ["Sujeto + verbo modal + infinitivo", "Sujeto + verbo + objeto directo", "Sujeto + verbo + objeto indirecto", "Sujeto + verbo + objeto directo + objeto indirecto"],
+        "respuesta": "Sujeto + verbo + objeto directo"
+    },
+    {
+        "id": 13,
+        "pregunta": "En una oración condicional de primer tipo, ¿cuál es la estructura típica en inglés?",
+        "categoria": "Oraciones Condicionales (Tipo 1)",
+        "opciones": ["If + presente simple, futuro simple", "If + pasado simple, condicional", "If + presente simple, presente simple", "If + pasado simple, presente continuo"],
+        "respuesta": "If + presente simple, futuro simple"
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuál es el modal que se utiliza para expresar obligación en inglés?",
+        "categoria": "Uso de Modales (Obligación)",
+        "opciones": ["Can", "Must", "May", "Would"],
+        "respuesta": "Must"
+    },
+    {
+        "id": 15,
+        "pregunta": "En una oración condicional de segundo tipo, ¿cuál es la estructura típica en inglés?",
+        "categoria": "Oraciones Condicionales (Tipo 2)",
+        "opciones": ["If + pasado simple, condicional perfecto", "If + presente simple, futuro simple", "If + presente simple, presente continuo", "If + pasado simple, pasado continuo"],
+        "respuesta": "If + pasado simple, condicional perfecto"
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cuál es el modal que se utiliza para expresar consejo o recomendación en inglés?",
+        "categoria": "Uso de Modales (Consejo)",
+        "opciones": ["Can", "Must", "Should", "Might"],
+        "respuesta": "Should"
+    },
+    {
+        "id": 17,
+        "pregunta": "En una oración condicional de tercer tipo, ¿cuál es la estructura típica en inglés?",
+        "categoria": "Oraciones Condicionales (Tipo 3)",
+        "opciones": ["If + presente perfecto, condicional perfecto", "If + presente simple, futuro simple", "If + pasado simple, presente continuo", "If + pasado simple, pasado perfecto"],
+        "respuesta": "If + presente perfecto, condicional perfecto"
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuál es el modal que se utiliza para expresar posibilidad en inglés?",
+        "categoria": "Uso de Modales (Posibilidad)",
+        "opciones": ["Can", "Must", "May", "Would"],
+        "respuesta": "May"
+    },
+    {
+        "id": 19,
+        "pregunta": "En una oración en voz pasiva, ¿qué elemento recibe la acción del verbo?",
+        "categoria": "Voz Pasiva",
+        "opciones": ["Sujeto", "Objeto Directo", "Objeto Indirecto", "Verbo"],
+        "respuesta": "Objeto Directo"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es el modal que se utiliza para expresar capacidad en inglés?",
+        "categoria": "Uso de Modales (Capacidad)",
+        "opciones": ["Can", "Must", "May", "Would"],
+        "respuesta": "Can"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cuál es el significado de 'endeavor' en inglés?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Esperanza", "Esfuerzo", "Logro", "Entusiasmo"],
+        "respuesta": "Esfuerzo"
+    },
+    {
+        "id": 22,
+        "pregunta": "En el contexto de un texto, ¿qué significa 'mitigate' en inglés?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Minimizar", "Aceptar", "Aumentar", "Desafiar"],
+        "respuesta": "Minimizar"
+    },
+    {
+        "id": 23,
+        "pregunta": "Si alguien está 'perplexed', ¿cómo se siente en español?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Perdido", "Feliz", "Confundido", "Relajado"],
+        "respuesta": "Confundido"
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué significa 'innovation' en inglés?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Innovación", "Tradición", "Estancamiento", "Competencia"],
+        "respuesta": "Innovación"
+    },
+    {
+        "id": 25,
+        "pregunta": "Si alguien menciona 'sustainability' en inglés, ¿a qué se refiere?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Sostenibilidad", "Eficiencia", "Producción", "Diversidad"],
+        "respuesta": "Sostenibilidad"
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuál es el significado de 'prolific' en inglés?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Productivo", "Desconocido", "Retrasado", "Famoso"],
+        "respuesta": "Productivo"
+    },
+    {
+        "id": 27,
+        "pregunta": "Si alguien está 'resilient', ¿cómo se siente en inglés?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Débil", "Resiliente", "Impaciente", "Preocupado"],
+        "respuesta": "Resiliente"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué significa 'equity'?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Equidad", "Diferencia", "Riqueza", "Experiencia"],
+        "respuesta": "Equidad"
+    },
+    {
+        "id": 29,
+        "pregunta": "Si algo es 'ubiquitous' en inglés, ¿qué significa?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Raro", "Ubicuo", "Invisible", "Temporal"],
+        "respuesta": "Ubicuo"
+    },
+    {
+        "id":30,
+        "pregunta": "¿Cuál es el significado de 'paradox' en inglés?",
+        "categoria": "Reading Advanced",
+        "opciones": ["Paradigma", "Paradoja", "Sensación", "Analogía"],
+        "respuesta": "Paradoja"
+    }
+]

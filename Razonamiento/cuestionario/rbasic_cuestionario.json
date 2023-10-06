@@ -1,0 +1,562 @@
+[
+    {
+        "id": 1,
+        "pregunta": "Completa la secuencia: 2,4,6,__.",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["8","10","12","14"],
+        "respuesta": "8"
+    },
+    {
+        "id": 2,
+        "pregunta": "Si María es más alta que Juan y Juan es más alto que Pedro, ¿quién es el más bajo?",
+        "categoria": "Resolución de problemas lógicos simples",
+        "opciones": ["María", "Juan", "Pedro", "No se puede determinar"],
+        "respuesta": "Pedro"  
+    },
+    {
+        "id": 3,
+        "pregunta": "Si todos los pájaros vuelan y los pingüinos son pájaros, ¿pueden los pingüinos volar?",
+        "categoria": "Inferencia lógica básica",
+        "opciones": ["Sí", "No"],
+        "respuesta": "Sí"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es el siguiente número en la serie: 1, 4, 9, 16, __?",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["25", "36", "49", "64"],
+        "respuesta": "25"
+    },
+    {
+        "id": 5,
+        "pregunta": "Si un tren viaja a 80 km/h durante 2 horas, ¿cuántos kilómetros recorrerá en total?",
+        "categoria": "Resolución de problemas lógicos simples",
+        "opciones": ["80 km", "160 km", "240 km", "320 km"],
+        "respuesta": "160 km"
+    },
+    {
+        "id": 6,
+        "pregunta": "Completa la secuencia: 10, 20, 30, __, 50.",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["40", "45", "50", "60"],
+        "respuesta": "40"
+    },
+    {
+        "id": 7,
+        "pregunta": "Si 5 manzanas cuestan $10, ¿cuánto cuestan 12 manzanas?",
+        "categoria": "Resolución de problemas lógicos simples",
+        "opciones": ["$12", "$24", "$30", "$60"],
+        "respuesta": "$24"
+    },
+    {
+        "id": 8,
+        "pregunta": "Si todos los estudiantes son jóvenes y algunos jóvenes son atletas, ¿pueden algunos estudiantes ser atletas?",
+        "categoria": "Inferencia lógica básica",
+        "opciones": ["Sí", "No"],
+        "respuesta": "Sí"
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cuál es el siguiente patrón en la serie: 3, 6, 12, 24, __?",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["36", "48", "60", "72"],
+        "respuesta": "48"
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuál es el siguiente número en la serie: 2, 4, 8, 16, __?",
+        "categoria":"Secuencias lógicas y patrones",
+        "opciones": ["24", "32", "48", "64"],
+        "respuesta": "32"
+    },
+    {
+        "id": 11,
+        "pregunta": "Si 3 hamburguesas cuestan $15, ¿cuánto cuestan 5 hamburguesas?",
+        "categoria":"Resolución de problemas lógicos simples",
+        "opciones": ["$5", "$10", "$15", "$25"],
+        "respuesta": "$25"
+    },
+    {
+        "id": 12,
+        "pregunta": "Completa la secuencia: 5, 10, 20, __, 80.",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["30", "40", "50", "60"],
+        "respuesta": "40"
+    },
+    {
+        "id": 13,
+        "pregunta": "Si 4 bolígrafos cuestan $12, ¿cuánto cuestan 8 bolígrafos?",
+        "categoria": "Resolución de problemas lógicos simples",
+        "opciones": ["$8", "$10", "$12", "$16"],
+        "respuesta": "$24"
+    },
+    {
+        "id": 14,
+        "pregunta": "Si todos los hombres son seres humanos y algunos seres humanos son artistas, ¿pueden algunos hombres ser artistas?",
+        "categoria": "Inferencia lógica básica",
+        "opciones": ["Sí", "No"],
+        "respuesta": "Sí"
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cuál es el siguiente patrón en la serie: 1, 3, 6, 10, __?",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["12", "15", "18", "21"],
+        "respuesta": "15"
+    },
+    {
+        "id": 16,
+        "pregunta": "Si A es más alto que B, y B es más alto que C, ¿quién es el más alto?",
+        "categoria":"Resolución de problemas lógicos simples",
+        "opciones": ["A", "B", "C", "No se puede determinar"],
+        "respuesta": "A"
+    },
+    {
+        "id": 17,
+        "pregunta": "Si algunos pájaros son azules y algunos peces son azules, ¿pueden algunos pájaros ser peces?",
+        "categoria":"Inferencia lógica básica",
+        "opciones": ["Sí", "No"],
+        "respuesta": "No"
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuál es el siguiente número en la serie: 4, 9, 16, 25, __?",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["36", "49", "64", "81"],
+        "respuesta": "36"
+    },
+    {
+        "id": 19,
+        "pregunta": "Si 2 camisetas cuestan $20, ¿cuánto cuestan 5 camisetas?",
+        "categoria":"Resolución de problemas lógicos simples",
+        "opciones": ["$8", "$10", "$20", "$25"],
+        "respuesta": "$50"
+    },
+    {
+        "id": 20,
+        "pregunta": "Si todas las rosas son flores y algunas flores son amarillas, ¿pueden algunas rosas ser amarillas?",
+        "categoria": "Inferencia lógica básica",
+        "opciones": ["Sí", "No"],
+        "respuesta": "Sí"
+    },
+    {
+        "id": 21,
+        "pregunta": "Completa la secuencia: 2, 5, 10, 17, __.",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["24", "31", "40", "51"],
+        "respuesta": "24"
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Cuál es el siguiente número en la serie: 3, 6, 9, 12, 15, __?",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["18", "20", "21", "24"],
+        "respuesta": "18"
+    },
+    {
+        "id": 23,
+        "pregunta": "Si un libro cuesta $25 y un lápiz cuesta $2, ¿cuántos lápices puedes comprar con el mismo dinero que un libro?",
+        "categoria": "Resolución de problemas lógicos simples",
+        "opciones": ["10", "11", "12", "13"],
+        "respuesta": "12"
+    },
+    {
+        "id": 24,
+        "pregunta": "Si algunos estudiantes son músicos y algunos músicos son guitarristas, ¿pueden algunos estudiantes ser guitarristas?",
+        "categoria":"Inferencia lógica básica",
+        "opciones": ["Sí", "No"],
+        "respuesta": "Sí"
+    },
+    {
+        "id": 25,
+        "pregunta": "Completa la secuencia: 2, 4, 8, 16, 32, __.",
+        "categoria": "Secuencias lógicas y patrones",
+        "opciones": ["48", "64", "72", "80"],
+        "respuesta": "64"
+    },
+    {
+        "id": 26,
+        "pregunta": "Si Juan tiene 3 manzanas y le da 1 manzana a María, ¿cuántas manzanas le quedan a Juan?",
+        "categoria": "Resolución de problemas lógicos simples",
+        "opciones": ["0", "1", "2", "3"],
+        "respuesta": "2"
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Cuál es el resultado de 5 + 3?",
+        "categoria": "Operaciones aritméticas básicas",
+        "opciones": ["8", "10", "15", "20"],
+        "respuesta": "8"
+    },
+    {
+        "id": 28,
+        "pregunta": "Si el 20% de un número es igual a 30, ¿cuál es ese número?",
+        "categoria": "Problemas de proporción y porcentaje simples",
+        "opciones": ["15", "30", "50", "150"],
+        "respuesta": "150"
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Cuánto es 12 multiplicado por 6?",
+        "categoria": "Operaciones aritméticas básicas",
+        "opciones": ["36", "48", "72", "120"],
+        "respuesta": "72"
+    },
+    {
+        "id": 30,
+        "pregunta": "Si un artículo cuesta $50 y se vende con un 20% de descuento, ¿cuál es el precio de venta?",
+        "categoria": "Problemas de proporción y porcentaje simples",
+        "opciones": ["$10", "$20", "$40", "$45"],
+        "respuesta": "$40"
+    },
+    {
+        "id": 31,
+        "pregunta":"¿Cuánto es 18 dividido por 3?",
+        "categoria": "Operaciones aritméticas básicas",
+        "opciones": ["4", "6", "9", "12"],
+        "respuesta": "6"
+    },
+    {
+        "id": 32,
+        "pregunta": "Si el 25% de un número es igual a 50, ¿cuál es ese número?",
+        "categoria":"Problemas de proporción y porcentaje simples",
+        "opciones": ["10", "25", "50", "200"],
+        "respuesta": "200"
+    },
+    {
+        "id":33,
+        "pregunta": "¿Cuánto es 7 multiplicado por 9?",
+        "categoria":"Operaciones aritméticas básicas",
+        "opciones": ["45", "54", "63", "72"],
+        "respuesta": "63"
+    },
+    {
+        "id": 34,
+        "pregunta": "Si el 15% de un total es igual a $30, ¿cuál es el total?",
+        "categoria": "Problemas de proporción y porcentaje simples",
+        "opciones": ["$50", "$100", "$150", "$200"],
+        "respuesta": "$200"
+    },
+    {
+        "id": 35,
+        "pregunta":"Si caminas 2 kilómetros cada día durante 5 días, ¿cuántos kilómetros habrás recorrido en total?",
+        "categoria": "Resolución de problemas numéricos sencillos",
+        "opciones": ["2 km", "5 km", "7 km", "10 km"],
+        "respuesta": "10 km"
+    },
+    {
+        "id": 36,
+        "pregunta": "Si un artículo tiene un precio original de $80 y se vende con un 40% de descuento, ¿cuál es el precio de venta?",
+        "categoria": "Problemas de proporción y porcentaje simples",
+        "opciones": ["$20", "$40", "$48", "$60"],
+        "respuesta": "$48"
+    },
+    {
+        "id": 37,
+        "pregunta": "¿Cuánto es 4 multiplicado por 7 más 3?",
+        "categoria": "Operaciones aritméticas básicas",
+        "opciones": ["25", "29", "31", "35"],
+        "respuesta": "31"
+    },
+    {
+        "id": 38,
+        "pregunta": "Si el 10% de un número es igual a 50, ¿cuál es ese número?",
+        "categoria": "Problemas de proporción y porcentaje simples",
+        "opciones": ["100", "250", "500", "1000"],
+        "respuesta": "500"
+    },
+    {
+        "id": 39,
+        "pregunta": "Si compras tres boletos de cine por $9 cada uno, ¿cuánto pagas en total?",
+        "categoria":"Resolución de problemas numéricos sencillos",
+        "opciones": ["$6", "$9", "$18", "$27"],
+        "respuesta": "$27"
+    },
+    {
+        "id": 40,
+        "pregunta":"¿Cuánto es 5 multiplicado por 15?",
+        "categoria": "Operaciones aritméticas básicas",
+        "opciones": ["50", "75", "100", "125"],
+        "respuesta": "75"
+    },
+    {
+        "id": 41,
+        "pregunta": "Si un artículo tiene un precio original de $120 y se vende con un 25% de descuento, ¿cuál es el precio de venta?",
+        "categoria":"Problemas de proporción y porcentaje simples",
+        "opciones": ["$20", "$30", "$90", "$100"],
+        "respuesta": "$90"
+    },
+    {
+        "id": 42,
+        "pregunta": "Si tienes 8 bolígrafos y pierdes 3 de ellos, ¿cuántos te quedan?",
+        "categoria": "Resolución de problemas numéricos sencillos",
+        "opciones": ["1", "3", "5", "8"],
+        "respuesta": "5"
+    },
+    {
+        "id": 43,
+        "pregunta": "¿Cuánto es 20 menos 9?",
+        "categoria": "Operaciones aritméticas básicas",
+        "opciones": ["7", "10", "11", "13"],
+        "respuesta": "11"
+    },
+    {
+        "id": 44,
+        "pregunta": "Si el 30% de un número es igual a 45, ¿cuál es ese número?",
+        "categoria":"Problemas de proporción y porcentaje simples",
+        "opciones": ["15", "30", "60", "150"],
+        "respuesta": "150"
+    },
+    {
+        "id": 45,
+        "pregunta": "Si tienes $40 y gastas $12, ¿cuánto dinero te queda?",
+        "categoria":"Resolución de problemas numéricos sencillos",
+        "opciones": ["$8", "$12", "$28", "$40"],
+        "respuesta": "$28"
+    },
+    {
+        "id": 46,
+        "pregunta": "¿Cuánto es 6 multiplicado por 9 más 3?",
+        "categoria": "Operaciones aritméticas básicas",
+        "opciones": ["45", "51", "54", "63"],
+        "respuesta": "57"
+    },
+    {
+        "id": 47,
+        "pregunta": "Si un artículo tiene un precio original de $75 y se vende con un 20% de descuento, ¿cuál es el precio de venta?",
+        "categoria": "Problemas de proporción y porcentaje simples",
+        "opciones": ["$15", "$30", "$45", "$60"],
+        "respuesta": "$60"
+    },
+    { 
+        "id": 48,
+        "pregunta": "Si tienes 4 libros y cada libro tiene 120 páginas, ¿cuántas páginas tienes en total?",
+        "categoria": "Resolución de problemas numéricos sencillos",
+        "opciones": ["240", "360", "480", "600"],
+        "respuesta": "480"
+    },
+    {
+        "id": 49,
+        "pregunta": "¿Cuánto es 15 dividido por 3?",
+        "categoria": "Operaciones aritméticas básicas",
+        "opciones": ["3", "5", "10", "15"],
+        "respuesta": "5"
+    },
+    {
+        "id": 50,
+        "pregunta": "Si el 5% de un número es igual a 25, ¿cuál es ese número?",
+        "categoria":"Problemas de proporción y porcentaje simples",
+        "opciones": ["50", "100", "250", "500"],
+        "respuesta": "500"
+    },
+    {
+        "id": 51,
+        "pregunta": "Si compras dos camisetas por $15 cada una, ¿cuánto pagas en total?",
+        "categoria": "Resolución de problemas numéricos sencillos",
+        "opciones": ["$10", "$15", "$25", "$30"],
+        "respuesta": "$30"
+    },
+    { 
+        "id": 52,
+        "pregunta": "Lee el siguiente párrafo: 'El sol brilla en el cielo azul y las flores están en plena floración. Es un día hermoso.' ¿Qué tipo de día se describe en el párrafo?",
+        "categoria":"Comprensión de lectura básica",
+        "opciones": ["Día lluvioso", "Día nublado", "Día hermoso", "Día ventoso"],
+        "respuesta": "Día hermoso"
+    },
+    {
+        "id": 53,
+        "pregunta": "En la oración: 'María estaba muy ansiosa antes de la entrevista', ¿qué significa 'ansiosa'?",
+        "categoria": "Inferencia de significado a partir del contexto",
+        "opciones": ["Triste", "Enojada", "Nerviosa", "Feliz"],
+        "respuesta": "Nerviosa"
+    },
+    {
+        "id": 54,
+        "pregunta": "¿Cuál de las siguientes palabras es un sinónimo de 'alegría'?",
+        "categoria":"Reconocimiento de sinónimos y antónimos",
+        "opciones": ["Tristeza", "Felicidad", "Ira", "Desesperación"],
+        "respuesta": "Felicidad"
+    },
+    {
+        "id": 55,
+        "pregunta": "Lee la siguiente frase: 'El gato persigue al ratón por el jardín'. ¿Quién persigue a quién?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["El gato persigue al ratón", "El ratón persigue al gato", "El perro persigue al gato", "El gato persigue al perro"],
+        "respuesta": "El gato persigue al ratón"
+    },
+    {
+        "id": 56,
+        "pregunta": "En la oración: 'El viento soplaba fuerte, haciendo que los árboles se sacudieran', ¿qué significa 'sacudieran'?",
+        "categoria": "Inferencia de significado a partir del contexto",
+        "opciones": ["Bailaran", "Crecieran", "Movieran", "Detuvieran"],
+        "respuesta": "Movieran"
+    },
+    {
+        "id": 57,
+        "pregunta": "Lee el siguiente párrafo: 'El detective examinó cuidadosamente la escena del crimen en busca de pistas'. ¿Qué estaba haciendo el detective?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["Cocinando", "Durmiento", "Examinando", "Corriendo"],
+        "respuesta": "Examinando"
+    },
+    {
+        "id": 58,
+        "pregunta": "En la oración: 'El río fluía con rapidez', ¿qué significa 'fluir'?",
+        "categoria": "Inferencia de significado a partir del contexto",
+        "opciones": ["Congelar", "Moverse", "Parar", "Crecer"],
+        "respuesta": "Moverse"
+    },
+    {
+        "id": 59,
+        "pregunta": "¿Cuál de las siguientes palabras es un antónimo de 'pequeño'?",
+        "categoria": "Reconocimiento de sinónimos y antónimos",
+        "opciones": ["Enorme", "Rápido", "Bonito", "Joven"],
+        "respuesta": "Enorme"
+    },
+    {
+        "id": 60,
+        "pregunta": "Lee la siguiente frase: 'El niño estaba feliz porque le regalaron un juguete'. ¿Por qué estaba feliz el niño?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["Porque llovió", "Porque hizo frío", "Porque le regalaron un juguete", "Porque se enfermó"],
+        "respuesta": "Porque le regalaron un juguete"
+    },
+    {
+        "id": 61,
+        "pregunta": "En la oración: 'El atleta fue descalificado por usar sustancias prohibidas', ¿qué significa 'descalificado'?",
+        "categoria": "Inferencia de significado a partir del contexto",
+        "opciones": ["Elogiado", "Suspendido", "Premiado", "Entrenado"],
+        "respuesta": "Suspendido"
+    },
+    {
+        "id": 62,
+        "pregunta": "Lee el siguiente párrafo: 'El bosque estaba lleno de árboles altos y frondosos'. ¿Cómo estaba el bosque?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["Sin árboles", "Con árboles pequeños", "Con árboles altos", "Con animales"],
+        "respuesta": "Con árboles altos"
+    },
+    {
+        "id": 63,
+        "pregunta": "En la oración: 'El olor a pan recién horneado llenaba la cocina', ¿qué significa 'horneado'?",
+        "categoria": "Inferencia de significado a partir del contexto",
+        "opciones": ["Cocinado", "Servido", "Comido", "Guardado"],
+        "respuesta": "Cocinado"
+    },
+    {
+        "id": 64,
+        "pregunta": "¿Cuál de las siguientes palabras es un antónimo de 'viejo'?",
+        "categoria":"Reconocimiento de sinónimos y antónimos",
+        "opciones": ["Nuevo", "Pequeño", "Raro", "Largo"],
+        "respuesta": "Nuevo"
+    },
+    {
+        "id": 65,
+        "pregunta": "Lee la siguiente frase: 'El tren se detuvo en la estación'. ¿Qué hizo el tren?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["Corrió rápido", "Se detuvo", "Se cayó", "Voló"],
+        "respuesta": "Se detuvo"
+    },
+    {
+        "id": 66,
+        "pregunta": "Lee el siguiente párrafo: 'El científico realizó un experimento en su laboratorio para probar una nueva teoría'. ¿Qué hizo el científico?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["Cocinó una cena", "Bailó en su laboratorio", "Realizó un experimento", "Tomó unas vacaciones"],
+        "respuesta": "Realizó un experimento"
+    },
+    {
+        "id": 67,
+        "pregunta": "En la oración: 'El viajero se sintió aliviado cuando encontró el camino de regreso', ¿qué significa 'aliviado'?",
+        "categoria": "Inferencia de significado a partir del contexto",
+        "opciones": ["Cansado", "Triste", "Preocupado", "Contento"],
+        "respuesta": "Contento"
+    },
+    {
+        "id":68,
+        "pregunta": "¿Cuál de las siguientes palabras es un antónimo de 'rápido'?",
+        "categoria": "Reconocimiento de sinónimos y antónimos",
+        "opciones": ["Lento", "Pequeño", "Grande", "Fuerte"],
+        "respuesta": "Lento"
+    },
+    {
+        "id": 69,
+        "pregunta": "Lee la siguiente frase: 'El niño estaba emocionado porque iba a su fiesta de cumpleaños'. ¿Por qué estaba emocionado el niño?",
+        "categoria":"Comprensión de lectura básica",       
+        "opciones": ["Porque se perdió", "Porque estaba enfermo", "Porque iba a su fiesta de cumpleaños", "Porque llovió"],
+        "respuesta": "Porque iba a su fiesta de cumpleaños"
+    },
+    {
+        "id": 70,
+        "pregunta": "En la oración: 'El estudiante obtuvo una calificación sobresaliente en su examen', ¿qué significa 'sobresaliente'?",
+        "categoria":"Inferencia de significado a partir del contexto",
+        "opciones": ["Malo", "Promedio", "Bueno", "Excelente"],
+        "respuesta": "Excelente"
+    },
+    {
+        "id": 71,
+        "pregunta": "¿Cuál de las siguientes palabras es un antónimo de 'grande'?",
+        "categoria":"Reconocimiento de sinónimos y antónimos",
+        "opciones": ["Pequeño", "Alto", "Ancho", "Fuerte"],
+        "respuesta": "Pequeño"
+    },
+    {
+        "id": 72,
+        "pregunta": "Lee el siguiente párrafo: 'El chef preparó una deliciosa comida para los invitados'. ¿Qué hizo el chef?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["Jugó al fútbol", "Preparó una deliciosa comida", "Hizo un dibujo", "Durmió una siesta"],
+        "respuesta": "Preparó una deliciosa comida"
+    },
+    {
+        "id": 73,
+        "pregunta": "En la oración: 'El paciente se recuperó rápidamente después de la cirugía', ¿qué significa 'recuperó'?",
+        "categoria":"Inferencia de significado a partir del contexto",
+        "opciones": ["Enfermó", "Durmió", "Mejoró", "Comió"],
+        "respuesta": "Mejoró"
+    },
+    {
+        "id": 74,
+        "pregunta": "¿Cuál de las siguientes palabras es un sinónimo de 'contento'?",
+        "categoria": "Reconocimiento de sinónimos y antónimos",
+        "opciones": ["Triste", "Enojado", "Feliz", "Sorprendido"],
+        "respuesta": "Feliz"
+    },
+    {
+        "id": 75,
+        "pregunta": "Lee la siguiente frase: 'El autobús llegó puntualmente a la parada'. ¿Cuándo llegó el autobús?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["Tarde", "Temprano", "Puntualmente", "Nunca llegó"],
+        "respuesta": "Puntualmente"
+    },
+    {
+        "id": 76,
+        "pregunta": "Lee el siguiente párrafo: 'El pájaro cantaba melodías alegres en la rama del árbol'. ¿Dónde estaba el pájaro?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["En el agua", "En la rama del árbol", "En el suelo", "En una cueva"],
+        "respuesta": "En la rama del árbol"
+    },
+    {
+        "id": 77,
+        "pregunta":"En la oración: 'El estudiante fue elogiado por su excelente trabajo', ¿qué significa 'elogiado'?",
+        "categoria":"Inferencia de significado a partir del contexto",
+        "opciones": ["Criticado", "Aplaudido", "Censurado", "Ignorado"],
+        "respuesta": "Aplaudido"
+    },
+    {
+        "id": 78,
+        "pregunta": "¿Cuál de las siguientes palabras es un antónimo de 'frío'?",
+        "categoria": "Reconocimiento de sinónimos y antónimos",
+        "opciones": ["Caliente", "Congelado", "Nublado", "Ventoso"],
+        "respuesta": "Caliente"
+    },
+    {
+        "id": 79,
+        "pregunta": "Lee la siguiente frase: 'El barco navegó tranquilamente en el océano'. ¿Cómo navegó el barco?",
+        "categoria": "Comprensión de lectura básica",
+        "opciones": ["Rápidamente", "Tranquilamente", "Agresivamente", "Nunca navegó"],
+        "respuesta": "Tranquilamente"
+    },
+    {
+        "id": 80,
+        "pregunta": "En la oración: 'El artista creó una obra maestra con sus pinceles', ¿qué significa 'obra maestra'?",
+        "categoria":"Inferencia de significado a partir del contexto",
+        "opciones": ["Pintura simple", "Trabajo inacabado", "Obra perdida", "Trabajo excepcional"],
+        "respuesta": "Trabajo excepcional"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de lógica matemática",
+        "descripción": "Aprende los fundamentos de lógica matemática en este curso en línea.",
+        "url": "https://edutin.com/curso-de-logica-matematica"
+    },
+    {
+        "id": 2,
+        "tipo": "Curso en línea",
+        "nombre": "Curso de preparación para Examen admisión Universidad",
+        "descripción": "Aprende los fundamentos de razonamiento en este curso en línea.",
+        "url": "https://onx.la/c3d8d"
+    },
+    {
+        "id": 3,
+        "tipo": "Video",
+        "nombre": "Clase 4 | Razonamiento Verbal | Examen admisión Universidades 2023",
+        "descripción": "Un video que explica ejercicios de razonamiento verbal",
+        "url": "https://onx.la/3bcb0"
+    },
+    {
+        "id": 4,
+        "tipo": "Video",
+        "nombre": "Clase Virtual de Razonamiento Verbal",
+        "descripción": "Clase que presenta explicaciones y ejercicios de razonamiento verbal",
+        "url": "https://onx.la/921d6"
+    },
+    {
+        "id": 5,
+        "tipo": "Libro",
+        "nombre": "Lógica. Introducción a la argumentación",
+        "descripción": "Libro que aborda de manera introductoria el campo de la argumentación",
+        "url": "https://onx.la/aa624"
+    },
+    {
+        "id": 6,
+        "tipo": "Libro",
+        "nombre": "Cómo razonar matemáticamente",
+        "descripción": "Esta obra es perfecta para cualquiera que se proponga desarrollar la capacidad para razonar matemáticamente",
+        "url": "https://onx.la/1c5da"
+    },
+    {
+        "id": 7,
+        "tipo": "Libro",
+        "nombre": "Razonamiento lógico matemático para la toma de decisiones",
+        "descripción": "Este libro tiene refuerza los conocimientos cuantitativos que los alumnos han adquirido hasta el nivel bachillerato ",
+        "url": "https://onx.la/1fa01"
+    },
+    {
+        "id": 8,
+        "tipo": "Libro",
+        "nombre": "Desarrollo de habilidades del pensamiento",
+        "descripción": "Libro que aborda el desarrollo del razonamiento verbal y solución de problemas",
+        "url": "https://onx.la/c5ee7"
+    },
+    {
+        "id": 9,
+        "tipo": "Libro",
+        "nombre": "Introducción a la lógica matemática",
+        "descripción": "Libro para estudiantes que desean aprender a utilizar la lógica matemática",
+        "url": "https://onx.la/85ba8"
+    },
+    {
+        "id": 10,
+        "tipo": "Video",
+        "nombre": "Cómo estudiar y mejorar en matemáticas y razonamiento matemático",
+        "descripción": "Video que ofrece una guía completa de cada asignatura de matemática y razonamiento matemático",
+        "url": "https://onx.la/f7326"
+    },
+    {
+        "id": 11,
+        "tipo": "Curso en línea",
+        "nombre": "Razonamiento lógico matemático, curso básico",
+        "descripción": "Una serie de videos que abordan problemas lógicos matemáticos",
+        "url": "https://goo.su/DMqU6qO"
+    },
+    {
+        "id": 12,
+        "tipo": "Video",
+        "nombre": "Clase 1. Curso Gratuito. Razonamiento Lógico",
+        "descripción": "Un video que explica ejercicios de razonamiento lógico",
+        "url": "https://goo.su/yCFTuc"
+    },
+    {
+        "id": 13,
+        "tipo": "Video",
+        "nombre": "Aprende Lógica desde cero. Leyes de inferencia. Clase inicial.",
+        "descripción": "Un video que explica desde cero las bases de la lógica",
+        "url": "https://goo.su/OV9U1G"
+    },
+    {
+        "id": 14,
+        "tipo": "Video",
+        "nombre": "Razonamiento verbal | Clase gratis",
+        "descripción": "Video que explica conceptos claves del razonamiento verbal",
+        "url": "https://goo.su/UWeC"
+    },
+    {
+        "id": 15,
+        "tipo": "Video",
+        "nombre": "Examen UDEA - Razonamiento lógico",
+        "descripción": "Video clase que resuelve ejercicios de razonamiento lógico",
+        "url": "https://goo.su/lV9hK"
+    },
+    {
+        "id": 16,
+        "tipo": "Video",
+        "nombre": "Razonamiento VERBAL. Ingreso a las universidades. Clase Gratuita.",
+        "descripción": "Video clase interactiva que explica temas de razonamiento verbal",
+        "url": "https://goo.su/Eu603"
+    },
+    {
+        "id": 17,
+        "tipo": "Video",
+        "nombre": "46 preguntas de RAZONAMIENTO MATEMÁTICO para ingresar a la universidad paso a paso",
+        "descripción": "Video clase que explica 46 preguntas de razonamiento matemático",
+        "url": "https://goo.su/IJJs"
+    },
+    {
+        "id": 18,
+        "tipo": "Video",
+        "nombre": "Ejercicios del examen de admisión UCR Parte 1 Lógica-Matemática",
+        "descripción": "Video clase que explica preguntas de razonamiento lógico-matemático",
+        "url": "https://goo.su/LGuzPq"
+    },
+    {
+        "id": 19,
+        "tipo": "Página web",
+        "nombre": "¿Cómo mejorar el razonamiento lógico?",
+        "descripción": "Página que presenta consejos y recomienda apps para desarrollar el razonamiento lógico",
+        "url": "https://goo.su/jUyGy"
+    },
+    {
+        "id": 20,
+        "tipo": "Página web",
+        "nombre": "Tips y consejos para Razonamiento Lógico",
+        "descripción": "Página que presenta consejos para presentar el examen de admisión en la sección de razonamiento",
+        "url": "https://goo.su/1tDKUkH"
+    }
+]

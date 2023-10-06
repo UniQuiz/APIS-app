@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es la solución de la ecuación cuadrática x^2 - 4x + 4 = 0?",
+        "categoria": "Ecuaciones cuadráticas y polinomios",
+        "opciones": ["x = 2", "x = 3", "x = 4", "x = 5"],
+        "respuesta": "x = 2"
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cuál es el resultado de (2x + 3)(3x - 2)?",
+        "categoria": "Factorización de polinomios",
+        "opciones": ["6x^2 - x - 6", "6x^2 - x + 6", "6x^2 + x - 6", "6x^2 + x + 6"],
+        "respuesta": "6x^2 - x - 6"
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cuál es la solución del sistema de ecuaciones lineales:\n2x + y = 5\nx - y = 2?",
+        "categoria": "Sistemas de ecuaciones lineales",
+        "opciones": ["x = 2, y = 1", "x = 1, y = 2", "x = 3, y = 1", "x = 4, y = 2"],
+        "respuesta": "x = 3, y = 1"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es el gráfico de la función f(x) = 2x^2 - 3x + 1?",
+        "categoria": "Funciones y sus gráficos",
+        "opciones": ["Parábola hacia arriba", "Parábola hacia abajo", "Recta", "Círculo"],
+        "respuesta": "Parábola hacia arriba"
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cuál es el resultado de simplificar la expresión (x^3 * y^2) / (x^2 * y^3)?",
+        "categoria": "Radicales y exponentes",
+        "opciones": ["(x * y)", "x^3 * y", "(x * y^2)", "x^3 / y"],
+        "respuesta": "x * y^2"
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Cuál es el área de un triángulo con base de 6 unidades y altura de 8 unidades?",
+        "categoria": "Geometría avanzada",
+        "opciones": ["12 unidades cuadradas", "24 unidades cuadradas", "30 unidades cuadradas", "48 unidades cuadradas"],
+        "respuesta": "24 unidades cuadradas"
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cuál es el volumen de una esfera con radio de 5 unidades?",
+        "categoria": "Geometría avanzada",
+        "opciones": ["100π unidades cúbicas", "125π unidades cúbicas", "150π unidades cúbicas", "200π unidades cúbicas"],
+        "respuesta": "125π unidades cúbicas"
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Cuál es el área de un círculo con radio de 3 unidades?",
+        "categoria": "Geometría avanzada",
+        "opciones": ["9π unidades cuadradas", "12π unidades cuadradas", "18π unidades cuadradas", "27π unidades cuadradas"],
+        "respuesta": "9π unidades cuadradas"
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cuál es el perímetro de un cuadrado con lados de longitud 7 unidades?",
+        "categoria": "Geometría avanzada",
+        "opciones": ["14 unidades", "21 unidades", "28 unidades", "35 unidades"],
+        "respuesta": "28 unidades"
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuál es el resultado de simplificar la expresión (2√3)^2?",
+        "categoria": "Radicales y exponentes",
+        "opciones": ["3", "6", "12", "18"],
+        "respuesta": "12"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cuál es la función trigonométrica que relaciona el cateto opuesto y la hipotenusa en un triángulo rectángulo?",
+        "categoria": "Funciones trigonométricas",
+        "opciones": ["Seno (sin)", "Coseno (cos)", "Tangente (tan)", "Cotangente (cot)"],
+        "respuesta": "Seno (sin)"
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cuál es la función trigonométrica que relaciona el cateto adyacente y la hipotenusa en un triángulo rectángulo?",
+        "categoria": "Funciones trigonométricas",
+        "opciones": ["Seno (sin)", "Coseno (cos)", "Tangente (tan)", "Cotangente (cot)"],
+        "respuesta": "Coseno (cos)"
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Cuál es la función trigonométrica que relaciona el cateto opuesto y el cateto adyacente en un triángulo rectángulo?",
+        "categoria": "Funciones trigonométricas",
+        "opciones": ["Seno (sin)", "Coseno (cos)", "Tangente (tan)", "Cotangente (cot)"],
+        "respuesta": "Tangente (tan)"
+    },
+    {
+        "id": 14,
+        "pregunta": "En un triángulo rectángulo, si el valor del seno de un ángulo es 0.6, ¿cuál es el valor del coseno de ese ángulo?",
+        "categoria": "Funciones trigonométricas",
+        "opciones": ["0.4", "0.6", "0.8", "1.0"],
+        "respuesta": "0.8"
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cuál es la función trigonométrica inversa de la tangente (tan^(-1))?",
+        "categoria": "Funciones trigonométricas",
+        "opciones": ["Seno inverso (sin^(-1))", "Coseno inverso (cos^(-1))", "Tangente inversa (tan^(-1))", "Cotangente inversa (cot^(-1))"],
+        "respuesta": "Tangente inversa (tan^(-1))"
+    },
+    {
+        "id": 16,
+        "pregunta": "En un triángulo rectángulo, si el cateto opuesto mide 5 unidades y la hipotenusa mide 13 unidades, ¿cuál es el valor del seno del ángulo agudo?",
+        "categoria": "Resolución de triángulos",
+        "opciones": ["0.25", "0.5", "0.75", "1.0"],
+        "respuesta": "0.38461538461538464"
+    },
+    {
+        "id": 17,
+        "pregunta": "En un triángulo rectángulo, si el cateto adyacente mide 12 unidades y la hipotenusa mide 15 unidades, ¿cuál es el valor del coseno del ángulo agudo?",
+        "categoria": "Resolución de triángulos",
+        "opciones": ["0.4", "0.6", "0.8", "1.0"],
+        "respuesta": "0.8"
+    },
+    {
+        "id": 18,
+        "pregunta": "En un triángulo rectángulo, si el valor del seno de un ángulo agudo es 0.4, ¿cuál es el valor de la tangente de ese ángulo?",
+        "categoria": "Resolución de triángulos",
+        "opciones": ["0.4", "0.6", "0.8", "1.0"],
+        "respuesta": "0.6666666666666666"
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Cuál es la relación trigonométrica que relaciona la tangente (tan) con el seno (sin) y el coseno (cos) en un triángulo?",
+        "categoria": "Funciones trigonométricas",
+        "opciones": ["Tan = Sen/Cos", "Sen = Tan/Cos", "Cos = Sen/Tan", "Tan = Cos/Sen"],
+        "respuesta": "Tan = Sen/Cos"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es el área de un triángulo con un ángulo agudo de 45 grados, un cateto de longitud 6 unidades y la hipotenusa de longitud 12 unidades?",
+        "categoria": "Resolución de triángulos",
+        "opciones": ["18 unidades cuadradas", "24 unidades cuadradas", "36 unidades cuadradas", "48 unidades cuadradas"],
+        "respuesta": "18 unidades cuadradas"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cuál es la fórmula para calcular la distancia entre dos puntos en un plano cartesiano?",
+        "categoria": "Distancias y coordenadas cartesianas",
+        "opciones": ["d = √((x2 - x1)^2 + (y2 - y1)^2)", "d = (x2 - x1) * (y2 - y1)", "d = x2 - x1 + y2 - y1", "d = (x2 + x1)^2 + (y2 + y1)^2"],
+        "respuesta": "d = √((x2 - x1)^2 + (y2 - y1)^2)"
+    },
+    {
+        "id": 22,
+        "pregunta": "Si tienes dos puntos A(2, 3) y B(5, 7), ¿cuál es la distancia entre ellos?",
+        "categoria": "Distancias y coordenadas cartesianas",
+        "opciones": ["2", "3", "5", "√13"],
+        "respuesta": "√13"
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Cuál es la pendiente de una línea recta que pasa por los puntos (3, 4) y (6, 10)?",
+        "categoria": "Pendientes y coordenadas cartesianas",
+        "opciones": ["1", "2", "3", "4"],
+        "respuesta": "2"
+    },
+    {
+        "id": 24,
+        "pregunta": "Si la pendiente de una línea es 0.5 y pasa por el punto (2, 5), ¿cuál es la ecuación de esa línea en la forma punto-pendiente?",
+        "categoria": "Pendientes y coordenadas cartesianas",
+        "opciones": ["y - 5 = 0.5(x - 2)", "y = 0.5x + 2.5", "y = 2x + 5", "y + 5 = 0.5(x + 2)"],
+        "respuesta": "y - 5 = 0.5(x - 2)"
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Cuál es la coordenada x del punto en el que la línea y = 3x + 2 intersecta el eje x?",
+        "categoria": "Pendientes y coordenadas cartesianas",
+        "opciones": ["-2/3", "-2", "3/2", "2/3"],
+        "respuesta": "-2/3"
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuál es la coordenada y del punto en el que la línea y = -4x + 8 intersecta el eje y?",
+        "categoria": "Pendientes y coordenadas cartesianas",
+        "opciones": ["-4", "4", "8", "-8"],
+        "respuesta": "8"
+    },
+    {
+        "id": 27,
+        "pregunta": "Si tienes dos puntos C(1, 2) y D(4, 6), ¿cuál es la distancia entre ellos?",
+        "categoria": "Distancias y coordenadas cartesianas",
+        "opciones": ["√13", "√17", "√20", "√25"],
+        "respuesta": "√13"
+    },
+    {
+        "id": 28,
+        "pregunta": "Si tienes dos puntos E(3, 4) y F(3, 8), ¿cuál es la distancia entre ellos?",
+        "categoria": "Distancias y coordenadas cartesianas",
+        "opciones": ["2", "4", "6", "8"],
+        "respuesta": "4"
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Cuál es la pendiente de una línea horizontal en un plano cartesiano?",
+        "categoria": "Pendientes y coordenadas cartesianas",
+        "opciones": ["0", "1", "∞", "-∞"],
+        "respuesta": "0"
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuál es la ecuación de la línea vertical que pasa por el punto (5, 2) en un plano cartesiano?",
+        "categoria": "Pendientes y coordenadas cartesianas",
+        "opciones": ["x = 5", "y = 2", "y = 5x + 2", "x = 2"],
+        "respuesta": "x = 5"
+    }
+]
